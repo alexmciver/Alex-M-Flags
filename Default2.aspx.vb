@@ -22,10 +22,14 @@ Partial Class Default2
         CountryNames(5) = "Russia"
 
         flag.ImageUrl = Flagimageurl(6 * Rnd()) 'Choosing a random flag'
-        RadioButton1.Text = CountryNames(6 * Rnd()) 'Picks the country according to the CountryNames array'
+        RadioButton1.Text = CountryNames(6 * Rnd()) 'Randomly picks the country according to the CountryNames array'
         RadioButton2.Text = CountryNames(6 * Rnd())
         RadioButton3.Text = CountryNames(6 * Rnd())
         RadioButton4.Text = CountryNames(6 * Rnd())
+
+        If RadioButton1.Text = RadioButton2.Text Then
+            RadioButton2.Text = CountryNames(6 * Rnd())
+        End If
 
     End Sub
 End Class
