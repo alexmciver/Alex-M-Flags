@@ -3,6 +3,7 @@ Partial Class Default2
     Inherits System.Web.UI.Page
 
     Private Sub form1_Load(sender As Object, e As EventArgs) Handles form1.Load
+
         Dim Flagimageurl(6) As String ' creating the flag image url array'
         Flagimageurl(0) = "https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif"
         Flagimageurl(1) = "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png"
@@ -21,10 +22,10 @@ Partial Class Default2
         CountryNames(5) = "Russia"
 
         flag.ImageUrl = Flagimageurl(6 * Rnd()) 'Choosing a random flag'
-        RadioButton1.Text = CountryNames(0)
-        RadioButton2.Text = CountryNames(1)
-        RadioButton3.Text = CountryNames(2)
-        RadioButton4.Text = CountryNames(3)
+        RadioButton1.Text = CountryNames(6 * Rnd()) 'Picks the country according to the CountryNames array'
+        RadioButton2.Text = CountryNames(6 * Rnd())
+        RadioButton3.Text = CountryNames(6 * Rnd())
+        RadioButton4.Text = CountryNames(6 * Rnd())
 
     End Sub
 End Class
