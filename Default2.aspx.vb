@@ -31,5 +31,25 @@ Partial Class Default2
             RadioButton2.Text = CountryNames(6 * Rnd())
         End If
 
+        If RadioButton1.Text = RadioButton3.Text Then
+            RadioButton3.Text = CountryNames(6 * Rnd())
+        End If
+
+        If RadioButton2.Text = RadioButton3.Text Then
+            RadioButton3.Text = CountryNames(6 * Rnd())
+        End If
+
+        If RadioButton3.Text = RadioButton4.Text Then
+            RadioButton4.Text = CountryNames(6 * Rnd())
+        End If
+
+        If RadioButton1.Text = RadioButton4.Text Then
+            RadioButton4.Text = CountryNames(6 * Rnd())
+        End If
+
+        If RadioButton2.Text = RadioButton4.Text Then
+            RadioButton4.Text = CountryNames(6 * Rnd())
+        End If
+
     End Sub
 End Class
