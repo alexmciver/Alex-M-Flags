@@ -27,29 +27,30 @@ Partial Class Default2
         RadioButton3.Text = CountryNames(6 * Rnd())
         RadioButton4.Text = CountryNames(6 * Rnd())
 
-        If RadioButton1.Text = RadioButton2.Text Then
-            RadioButton2.Text = CountryNames(6 * Rnd())
+        If RadioButton1.Text = RadioButton2.Text Then 'Makes sure that the radiobuttons don't show duplicate answers'
+            RadioButton2.Text = CountryNames(4 * Rnd())
         End If
 
         If RadioButton1.Text = RadioButton3.Text Then
-            RadioButton3.Text = CountryNames(6 * Rnd())
+            RadioButton3.Text = CountryNames(4 * Rnd())
         End If
 
         If RadioButton2.Text = RadioButton3.Text Then
-            RadioButton3.Text = CountryNames(6 * Rnd())
+            RadioButton3.Text = CountryNames(4 * Rnd())
         End If
 
         If RadioButton3.Text = RadioButton4.Text Then
-            RadioButton4.Text = CountryNames(6 * Rnd())
+            RadioButton4.Text = CountryNames(4 * Rnd())
         End If
 
         If RadioButton1.Text = RadioButton4.Text Then
-            RadioButton4.Text = CountryNames(6 * Rnd())
+            RadioButton4.Text = CountryNames(4 * Rnd())
         End If
 
         If RadioButton2.Text = RadioButton4.Text Then
-            RadioButton4.Text = CountryNames(6 * Rnd())
+            RadioButton4.Text = CountryNames(4 * Rnd())
         End If
+
 
     End Sub
 End Class
