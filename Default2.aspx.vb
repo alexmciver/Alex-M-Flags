@@ -18,7 +18,7 @@ Partial Class Default2
         CountryNames(1) = "France"
         CountryNames(2) = "Brazil"
         CountryNames(3) = "Spain"
-        CountryNames(4) = "United States of America"
+        CountryNames(4) = "United States of America (USA)"
         CountryNames(5) = "Russia"
 
         flag.ImageUrl = Flagimageurl(6 * Rnd()) 'Choosing a random flag'
