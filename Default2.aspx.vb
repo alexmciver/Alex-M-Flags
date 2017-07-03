@@ -35,11 +35,11 @@ Partial Class Default2
             RadioButton1.Text = CountryNames(5 * Rnd())
         End If
 
-        If RadioButton3.Text = RadioButton1.Text Or RadioButton2.Text Then
+        If RadioButton3.Text = RadioButton1.Text Or RadioButton3.Text = RadioButton2.Text Then
             RadioButton3.Text = CountryNames(5 * Rnd())
         End If
 
-        If RadioButton4.Text = RadioButton1.Text Or RadioButton2.Text Or RadioButton3.Text Then
+        If RadioButton4.Text = RadioButton1.Text Or RadioButton2.Text = RadioButton3.Text Then
             RadioButton4.Text = CountryNames(5 * Rnd())
         End If
 
