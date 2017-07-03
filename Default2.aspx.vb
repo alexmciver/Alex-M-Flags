@@ -13,7 +13,7 @@ Partial Class Default2
         Flagimageurl(5) = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Russia_%28Kremlin.ru%29.svg/1024px-Flag_of_Russia_%28Kremlin.ru%29.svg.png"
 
 
-        Dim CountryNames(6) As String 'creating the country names array'
+        Dim CountryNames(5) As String 'creating the country names array'
         CountryNames(0) = "United Kingdom"
         CountryNames(1) = "France"
         CountryNames(2) = "Brazil"
