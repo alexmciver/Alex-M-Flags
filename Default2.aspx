@@ -40,7 +40,7 @@
         <br />
         <asp:RadioButton ID="RadioButton3" runat="server" />
         <br />
-        <asp:RadioButton ID="RadioButton4" runat="server" />
+        <asp:RadioButton ID="RadioButton3" runat="server" />
     </form>
 </body>
 </html>
