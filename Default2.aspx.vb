@@ -24,26 +24,22 @@
         RadioButton1.Text = CountryNames(5 * Rnd()) 'Randomly picks the country according to the CountryNames array'
         RadioButton2.Text = CountryNames(5 * Rnd())  ' with random * 6 you get blanks so you need to use random * 5'
         RadioButton3.Text = CountryNames(5 * Rnd())
-        RadioButton3.Text = CountryNames(5 * Rnd())
+        RadioButton4.Text = CountryNames(5 * Rnd())
 
         If RadioButton1.Text = RadioButton2.Text Then 'Makes sure that the radiobuttons don't show duplicate answers'
             RadioButton2.Text = CountryNames(5 * Rnd())
-        End If
-
-        If RadioButton1.Text = RadioButton3.Text Then
-            RadioButton3.Text = CountryNames(5 * Rnd())
         End If
 
         If RadioButton2.Text = RadioButton1.Text Then
             RadioButton1.Text = CountryNames(5 * Rnd())
         End If
 
-        If RadioButton3.Text = RadioButton1.Text Or RadioButton2.Text Or RadioButton3.Text Then
+        If RadioButton3.Text = RadioButton1.Text Or RadioButton2.Text = RadioButton4.Text Then
             RadioButton3.Text = CountryNames(5 * Rnd())
         End If
 
-        If RadioButton3.Text = RadioButton1.Text Or RadioButton2.Text = RadioButton3.Text Then
-            RadioButton3.Text = CountryNames(5 * Rnd())
+        If RadioButton4.Text = RadioButton1.Text Or RadioButton2.Text = RadioButton3.Text Then
+            RadioButton4.Text = CountryNames(5 * Rnd())
         End If
 
     End Sub
