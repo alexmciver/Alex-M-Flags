@@ -32,7 +32,7 @@
     
     </div>
         <p style="background-color: #FFFFFF">
-            Which country has this flag?
+            Which country does this flag belong to?
         </p>
         <asp:RadioButton ID="RadioButton1" runat="server" />
         <br />
