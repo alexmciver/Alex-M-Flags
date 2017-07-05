@@ -36,15 +36,15 @@
         RadioButton4.Text = CountryNames(9 * Rnd())
 
         If RadioButton1.Text = RadioButton2.Text Then 'Makes sure that the radiobuttons don't show duplicate answers'
-            RadioButton2.Text = CountryNames(5 * Rnd())
+            RadioButton2.Text = CountryNames(9 * Rnd())
         End If
 
         If RadioButton3.Text = RadioButton1.Text Or RadioButton3.Text = RadioButton2.Text Then
-            RadioButton3.Text = CountryNames(5 * Rnd())
+            RadioButton3.Text = CountryNames(9 * Rnd())
         End If
 
         If RadioButton4.Text = RadioButton1.Text Or RadioButton3.Text = RadioButton2.Text Then
-            RadioButton4.Text = CountryNames(5 * Rnd())
+            RadioButton4.Text = CountryNames(9 * Rnd())
         End If
 
     End Sub

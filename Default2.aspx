@@ -17,9 +17,6 @@
         .auto-style2 {
             background-color: #FFFFFF;
         }
-        .auto-style3 {
-            color: #99FF33;
-        }
     </style>
 </head>
 <body style="width: 1336px; margin-left: 0px; margin-top: 0px">
@@ -27,15 +24,15 @@
     <div class="auto-style2">
     
             <h1 class="auto-style1" style="margin-left: 40px">Alex&#39;s Flags Game</h1>
-            <p class="auto-style3">
-                <strong>This game tests your knowledge of different flags from around the world! Some are easy and some are hard</strong></p>
+            <p>
+                <strong>This game tests your knowledge of different flags from around the world!</strong></p>
             <br />
     
-            <asp:Image ID="flag" runat="server" Height="129px" Width="176px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" />
+            <asp:Image ID="flag" runat="server" Height="162px" Width="293px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" />
     
     </div>
         <p style="background-color: #FFFFFF">
-            Which country does this flag belong to?
+            Which country has this flag?
         </p>
         <asp:RadioButton ID="RadioButton1" runat="server" />
         <br />
