@@ -3,7 +3,7 @@
 
     Private Sub form1_Load(sender As Object, e As EventArgs) Handles form1.Load
 
-        Dim Flagimageurl(9) As String ' creating the flag image url array'
+        Dim Flagimageurl(10) As String ' creating the flag image url array'
         Flagimageurl(0) = "https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif"
         Flagimageurl(1) = "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png"
         Flagimageurl(2) = "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png"
@@ -16,7 +16,7 @@
         Flagimageurl(9) = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png"
         Flagimageurl(10) = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png"
 
-        Dim CountryNames(9) As String 'creating the country names array'
+        Dim CountryNames(10) As String 'creating the country names array'
         CountryNames(0) = "United Kingdom"
         CountryNames(1) = "France"
         CountryNames(2) = "Brazil"
