@@ -17,6 +17,9 @@
         .auto-style2 {
             background-color: #FFFFFF;
         }
+        .auto-style3 {
+            color: #99FF33;
+        }
     </style>
 </head>
 <body style="width: 1336px; margin-left: 0px; margin-top: 0px">
@@ -24,7 +27,7 @@
     <div class="auto-style2">
     
             <h1 class="auto-style1" style="margin-left: 40px">Alex&#39;s Flags Game</h1>
-            <p>
+            <p class="auto-style3">
                 <strong>This game tests your knowledge of different flags from around the world! Some are easy and some are hard</strong></p>
             <br />
     

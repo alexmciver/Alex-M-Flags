@@ -16,7 +16,7 @@
         Flagimageurl(9) = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png"
         Flagimageurl(10) = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png"
 
-        Dim CountryNames(6) As String 'creating the country names array'
+        Dim CountryNames(9) As String 'creating the country names array'
         CountryNames(0) = "United Kingdom"
         CountryNames(1) = "France"
         CountryNames(2) = "Brazil"
@@ -29,11 +29,11 @@
         CountryNames(9) = "Canada"
         CountryNames(10) = "Germany"
 
-        flag.ImageUrl = Flagimageurl(6 * Rnd()) 'Choosing a random flag'
-        RadioButton1.Text = CountryNames(5 * Rnd()) 'Randomly picks the country according to the CountryNames array'
-        RadioButton2.Text = CountryNames(5 * Rnd())  ' with random * 6 you get blanks so you need to use random * 5'
-        RadioButton3.Text = CountryNames(5 * Rnd())
-        RadioButton4.Text = CountryNames(5 * Rnd())
+        flag.ImageUrl = Flagimageurl(9 * Rnd()) 'Choosing a random flag'
+        RadioButton1.Text = CountryNames(9 * Rnd()) 'Randomly picks the country according to the CountryNames array'
+        RadioButton2.Text = CountryNames(9 * Rnd())  ' with random * 10 you get blanks so you need to use random * 9'
+        RadioButton3.Text = CountryNames(9 * Rnd())
+        RadioButton4.Text = CountryNames(9 * Rnd())
 
         If RadioButton1.Text = RadioButton2.Text Then 'Makes sure that the radiobuttons don't show duplicate answers'
             RadioButton2.Text = CountryNames(5 * Rnd())
