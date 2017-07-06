@@ -1,7 +1,7 @@
 ﻿Partial Class Default2
     Inherits System.Web.UI.Page
 
-    Private Sub form1_Load(sender As Object, e As EventArgs) Handles form1.Load
+ Private Sub form1_Load(sender As Object, e As EventArgs) Handles form1.Load
 
         Dim Flagimageurl(10) As String ' creating the flag image url array'
         Flagimageurl(0) = "https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif"
@@ -28,21 +28,32 @@
         CountryNames(8) = "Italy"
         CountryNames(9) = "Canada"
         CountryNames(10) = "Germany"
+        
+        'Ok this is my proposed alteration - I've added another variable to keep track of the number of countries
+        'so  that it is easier to add more countries in the future
+        '
+        'All it does is store the maximum value of the CountryNames array in countryCount, and when the code below is calculating random
+        'numbers from a specified range, you dont need to change each line of code to reflect
+        'the new quantity of countries.
+        ' In my original SO answer I forgot that the high number should be the maximum number +1 .. Sorry
 
-        flag.ImageUrl = Flagimageurl(9 * Rnd()) 'Choosing a random flag'
-        RadioButton1.Text = CountryNames(9 * Rnd()) 'Randomly picks the country according to the CountryNames array'
-        RadioButton2.Text = CountryNames(9 * Rnd())  ' with random * 10 you get blanks so you need to use random * 9'
-        RadioButton3.Text = CountryNames(9 * Rnd())
-        RadioButton4.Text = CountryNames(9 * Rnd())
+        Dim randomNumber As New Random
+        Dim countryCount As Integer = CountryNames.GetUpperBound(0) +1
+
+        flag.ImageUrl = Flagimageurl(randomNumber.Next(0, countryCount)) 'Choosing a random flag'
+        RadioButton1.Text = CountryNames(randomNumber.Next(0, countryCount)) 'Randomly picks the country according to the CountryNames array'
+        RadioButton2.Text = CountryNames(randomNumber.Next(0, countryCount))  
+        RadioButton3.Text = CountryNames(randomNumber.Next(0, countryCount))
+        RadioButton4.Text = CountryNames(randomNumber.Next(0, countryCount))
 
         Do While RadioButton2.Text = RadioButton1.Text Or RadioButton2.Text = RadioButton3.Text Or RadioButton2.Text = RadioButton4.Text  'Makes sure that the radiobuttons don't show duplicate answers'
-            RadioButton1.Text = CountryNames(9 * Rnd())
+            RadioButton1.Text = CountryNames(randomNumber.Next(0, countryCount))
         Loop
         Do While RadioButton3.Text = RadioButton2.Text Or RadioButton3.Text = RadioButton1.Text Or RadioButton3.Text = RadioButton4.Text  'Makes sure that the radiobuttons don't show duplicate answers'
-            RadioButton1.Text = CountryNames(9 * Rnd())
+            RadioButton1.Text = CountryNames(randomNumber.Next(0, countryCount))
         Loop
         Do While RadioButton4.Text = RadioButton2.Text Or RadioButton4.Text = RadioButton3.Text Or RadioButton4.Text = RadioButton1.Text  'Makes sure that the radiobuttons don't show duplicate answers'
-            RadioButton1.Text = CountryNames(9 * Rnd())
+            RadioButton1.Text = CountryNames(randomNumber.Next(0, countryCount))
         Loop
 
     End Sub
