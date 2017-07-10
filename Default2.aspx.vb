@@ -35,15 +35,17 @@
         RadioButton3.Text = CountryNames(9 * Rnd())
         RadioButton4.Text = CountryNames(9 * Rnd())
 
-        Do While RadioButton2.Text = RadioButton1.Text Or RadioButton2.Text = RadioButton3.Text Or RadioButton2.Text = RadioButton4.Text  'Makes sure that the radiobuttons don't show duplicate answers'
+        If RadioButton2.Text = RadioButton1.Text Or RadioButton2.Text = RadioButton3.Text Or RadioButton2.Text = RadioButton4.Text Then  'Makes sure that the radiobuttons don't show duplicate answers'
             RadioButton1.Text = CountryNames(9 * Rnd())
-        Loop
-        Do While RadioButton3.Text = RadioButton2.Text Or RadioButton3.Text = RadioButton1.Text Or RadioButton3.Text = RadioButton4.Text  'Makes sure that the radiobuttons don't show duplicate answers'
-            RadioButton1.Text = CountryNames(9 * Rnd())
-        Loop
-        Do While RadioButton4.Text = RadioButton2.Text Or RadioButton4.Text = RadioButton3.Text Or RadioButton4.Text = RadioButton1.Text  'Makes sure that the radiobuttons don't show duplicate answers'
-            RadioButton1.Text = CountryNames(9 * Rnd())
-        Loop
+
+            If RadioButton3.Text = RadioButton2.Text Or RadioButton3.Text = RadioButton1.Text Or RadioButton3.Text = RadioButton4.Text Then  'Makes sure that the radiobuttons don't show duplicate answers'
+                RadioButton1.Text = CountryNames(9 * Rnd())
+
+                If RadioButton4.Text = RadioButton2.Text Or RadioButton4.Text = RadioButton3.Text Or RadioButton4.Text = RadioButton1.Text Then  'Makes sure that the radiobuttons don't show duplicate answers'
+                    RadioButton1.Text = CountryNames(9 * Rnd())
+                End If
+            End If
+        End If
 
     End Sub
 End Class
