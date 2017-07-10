@@ -15,6 +15,9 @@
         Flagimageurl(8) = "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png"
         Flagimageurl(9) = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png"
         Flagimageurl(10) = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png"
+        Flagimageurl(11) = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1024px-Flag_of_South_Africa.svg.png"
+        Flagimageurl(12) = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1024px-Flag_of_Australia.svg.png"
+        Flagimageurl(13) = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/768px-Flag_of_Switzerland.svg.png"
 
         Dim CountryNames(10) As String 'creating the country names array'
         CountryNames(0) = "United Kingdom"
@@ -28,6 +31,12 @@
         CountryNames(8) = "Italy"
         CountryNames(9) = "Canada"
         CountryNames(10) = "Germany"
+        CountryNames(11) = "South Africa"
+        CountryNames(12) = "Australia"
+        CountryNames(13) = "Switzerland"
+
+
+
 
         flag.ImageUrl = Flagimageurl(9 * Rnd()) 'Choosing a random flag'
         RadioButton1.Text = CountryNames(9 * Rnd()) 'Randomly picks the country according to the CountryNames array'
