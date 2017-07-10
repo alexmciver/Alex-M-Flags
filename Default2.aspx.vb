@@ -27,6 +27,14 @@
         Flagimageurl(20) =
         Flagimageurl(21) =
         Flagimageurl(22) =
+        Flagimageurl(23) =
+        Flagimageurl(24) =
+        Flagimageurl(25) =
+        Flagimageurl(26) =
+        Flagimageurl(27) =
+        Flagimageurl(28) =
+        Flagimageurl(29) =
+        Flagimageurl(30) = 
 
 
 
@@ -70,8 +78,19 @@
         CountryNames(19) = "Bhutan"
         CountryNames(20) = "Bolivia"
         CountryNames(21) = "Bosnia and Herzegovina"
-        CountryNames(22) = "Botswanna"
+        CountryNames(22) = "Botswana"
         CountryNames(23) = "Brazil"
+        CountryNames(24) = "Brunei"
+        CountryNames(25) = "Bulgaria"
+        CountryNames(26) = "Burkina Faso"
+        CountryNames(27) = "Burma (Myanmar)"
+        CountryNames(28) = "Burundi"
+        CountryNames(29) = "Cambodia"
+        CountryNames(30) = "Cameroon"
+        CountryNames(31) = "Canada"
+        CountryNames(32) = "Cape Verde"
+        CountryNames(33) = ""
+
 
 
 
@@ -85,7 +104,6 @@
         CountryNames(6) = "Japan"
         CountryNames(7) = "China"
         CountryNames(8) = "Italy"
-        CountryNames(9) = "Canada"
         CountryNames(10) = "Germany"
         CountryNames(11) = "South Africa"
         CountryNames(13) = "Switzerland"
