@@ -10,6 +10,26 @@
         Flagimageurl(3) =
         Flagimageurl(4) =
         Flagimageurl(5) =
+        Flagimageurl(6) =
+        Flagimageurl(7) =
+        Flagimageurl(8) =
+        Flagimageurl(9) =
+        Flagimageurl(10) =
+        Flagimageurl(11) =
+        Flagimageurl(12) =
+        Flagimageurl(13) =
+        Flagimageurl(14) =
+        Flagimageurl(15) =
+        Flagimageurl(16) =
+        Flagimageurl(17) =
+        Flagimageurl(18) =
+        Flagimageurl(19) =
+        Flagimageurl(20) =
+        Flagimageurl(21) =
+        Flagimageurl(22) =
+
+
+
 
 
         Flagimageurl(0) = "https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif"
@@ -34,10 +54,31 @@
         CountryNames(3) = "Andorra"
         CountryNames(4) = "Angola"
         CountryNames(5) = "Antigua and Barbuda"
+        CountryNames(6) = "Argentina"
+        CountryNames(7) = "Armenia"
+        CountryNames(8) = "Australia"
+        CountryNames(9) = "Austria"
+        CountryNames(10) = "Azerbaijan"
+        CountryNames(11) = "Bahamas"
+        CountryNames(12) = "Bahrain"
+        CountryNames(13) = "Bangladesh"
+        CountryNames(14) = "Barbados"
+        CountryNames(15) = "Belarus"
+        CountryNames(16) = "Belgium"
+        CountryNames(17) = "Belize"
+        CountryNames(18) = "Benin"
+        CountryNames(19) = "Bhutan"
+        CountryNames(20) = "Bolivia"
+        CountryNames(21) = "Bosnia and Herzegovina"
+        CountryNames(22) = "Botswanna"
+        CountryNames(23) = "Brazil"
+
+
+
+
 
         CountryNames(0) = "United Kingdom"
         CountryNames(1) = "France"
-        CountryNames(2) = "Brazil"
         CountryNames(3) = "Spain"
         CountryNames(4) = "United States of America (USA)"
         CountryNames(5) = "Russia"
@@ -47,7 +88,6 @@
         CountryNames(9) = "Canada"
         CountryNames(10) = "Germany"
         CountryNames(11) = "South Africa"
-        CountryNames(12) = "Australia"
         CountryNames(13) = "Switzerland"
 
 
