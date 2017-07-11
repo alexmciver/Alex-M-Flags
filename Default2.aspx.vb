@@ -115,7 +115,11 @@
         Flagimageurl(108) =
         Flagimageurl(109) =
         Flagimageurl(110) =
-
+        Flagimageurl(111) =
+        Flagimageurl(112) =
+        Flagimageurl(113) =
+        Flagimageurl(114) =
+        Flagimageurl(115) =
 
 
 
@@ -261,6 +265,11 @@
         CountryNames(108) = "Mali"
         CountryNames(109) = "Malta"
         CountryNames(110) = "Marshall Islands"
+        CountryNames(111) = "Mauritania"
+        CountryNames(112) = "Mauritius"
+        CountryNames(113) = "Mexico"
+        CountryNames(114) = "Micronesia"
+        CountryNames(115) = "Moldova"
 
 
 
