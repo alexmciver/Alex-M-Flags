@@ -85,6 +85,16 @@
         Flagimageurl(78) =
         Flagimageurl(79) =
         Flagimageurl(80) =
+        Flagimageurl(81) =
+        Flagimageurl(82) =
+        Flagimageurl(83) =
+        Flagimageurl(84) =
+        Flagimageurl(85) =
+        Flagimageurl(86) =
+        Flagimageurl(87) =
+        Flagimageurl(88) =
+        Flagimageurl(89) =
+        Flagimageurl(90) =
 
 
 
@@ -198,6 +208,21 @@
         CountryNames(78) = "Indonesia"
         CountryNames(79) = "Iran"
         CountryNames(80) = "Iraq"
+        CountryNames(81) = "Ireland"
+        CountryNames(82) = "Israel"
+        CountryNames(83) = "Italy"
+        'countries listed in alphabetial order'
+        CountryNames(84) = "Jamaica"
+        CountryNames(85) = "Japan"
+        CountryNames(86) = "Jordan"
+        'countries listed in alphabetial order'
+        CountryNames(87) = "Kazakhstan"
+        CountryNames(88) = "Kenya"
+        CountryNames(89) = "Kiribati"
+        CountryNames(90) = "North Korea"
+
+
+
 
 
 
@@ -215,8 +240,6 @@
         CountryNames(3) = "Spain"
         CountryNames(4) = "United States of America (USA)"
         CountryNames(5) = "Russia"
-        CountryNames(6) = "Japan"
-        CountryNames(8) = "Italy"
         CountryNames(11) = "South Africa"
         CountryNames(13) = "Switzerland"
 
