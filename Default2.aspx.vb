@@ -145,7 +145,11 @@
         Flagimageurl(138) =
         Flagimageurl(139) =
         Flagimageurl(140) =
-
+        Flagimageurl(141) =
+        Flagimageurl(142) =
+        Flagimageurl(143) =
+        Flagimageurl(144) =
+        Flagimageurl(145) =
 
 
         Flagimageurl(0) = "https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif"
@@ -320,6 +324,15 @@
         CountryNames(138) = "Peru"
         CountryNames(139) = "Philippines"
         CountryNames(140) = "Poland"
+        CountryNames(141) = "Portugal"
+        'countries listed in alphabetial order'
+        CountryNames(142) = "Qatar"
+        'countries listed in alphabetial order'
+        CountryNames(143) = "Romania"
+        CountryNames(144) = "Russia"
+        CountryNames(145) = "Rwanda"
+
+
 
 
 
@@ -345,7 +358,6 @@
         CountryNames(0) = "United Kingdom"
         CountryNames(3) = "Spain"
         CountryNames(4) = "United States of America (USA)"
-        CountryNames(5) = "Russia"
         CountryNames(11) = "South Africa"
         CountryNames(13) = "Switzerland"
 
