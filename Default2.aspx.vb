@@ -107,6 +107,14 @@
         Flagimageurl(100) =
         Flagimageurl(101) =
         Flagimageurl(102) =
+        Flagimageurl(103) =
+        Flagimageurl(104) =
+        Flagimageurl(105) =
+        Flagimageurl(106) =
+        Flagimageurl(107) =
+        Flagimageurl(108) =
+        Flagimageurl(109) =
+        Flagimageurl(110) =
 
 
 
@@ -245,6 +253,14 @@
         CountryNames(101) = "Lithuania"
         CountryNames(102) = "Luxembourg"
         'countries listed in alphabetial order'
+        CountryNames(103) = "Macedonia"
+        CountryNames(104) = "Madagascar"
+        CountryNames(105) = "Malawi"
+        CountryNames(106) = "Malaysia"
+        CountryNames(107) = "Maldives"
+        CountryNames(108) = "Mali"
+        CountryNames(109) = "Malta"
+        CountryNames(110) = "Marshall Islands"
 
 
 
