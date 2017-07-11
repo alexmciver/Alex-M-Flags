@@ -189,6 +189,8 @@
         Flagimageurl(182) =
         Flagimageurl(183) =
         Flagimageurl(184) =
+        Flagimageurl(185) =
+        Flagimageurl(186) = 
 
 
 
@@ -219,6 +221,7 @@
         CountryNames(8) = "Australia"
         CountryNames(9) = "Austria"
         CountryNames(10) = "Azerbaijan"
+
         'countries listed in alphabetical order'
         CountryNames(11) = "Bahamas"
         CountryNames(12) = "Bahrain"
@@ -238,6 +241,7 @@
         CountryNames(26) = "Burkina Faso"
         CountryNames(27) = "Burma (Myanmar)"
         CountryNames(28) = "Burundi"
+
         'countries listed in alphabetical order'
         CountryNames(29) = "Cambodia"
         CountryNames(30) = "Cameroon"
@@ -257,11 +261,13 @@
         CountryNames(44) = "Cuba"
         CountryNames(45) = "Cyprus"
         CountryNames(46) = "Czech Republic"
+
         'countries listed in alphabetical order'
         CountryNames(47) = "Denmark"
         CountryNames(48) = "Djibouti"
         CountryNames(49) = "Dominica"
         CountryNames(50) = "Dominican Republic"
+
         'countries listed in alphabetical order'
         CountryNames(51) = "East Timor"
         CountryNames(52) = "Ecuador"
@@ -271,10 +277,12 @@
         CountryNames(56) = "Eritrea"
         CountryNames(57) = "Estonia"
         CountryNames(58) = "Ethiopia"
+
         'countries listed in alphabetial order'
         CountryNames(59) = "Fiji"
         CountryNames(60) = "Finland"
         CountryNames(61) = "France"
+
         'countries listed in alphabetial order'
         CountryNames(62) = "Gabon"
         CountryNames(63) = "Gambia"
@@ -287,10 +295,12 @@
         CountryNames(70) = "Guinea"
         CountryNames(71) = "Guinea-Bissau"
         CountryNames(72) = "Guyana"
+
         'countries listed in alphabetial order'
         CountryNames(73) = "Haiti"
         CountryNames(74) = "Honduras"
         CountryNames(75) = "Hungary"
+
         'countries listed in alphabetial order'
         CountryNames(76) = "Iceland"
         CountryNames(77) = "India"
@@ -300,10 +310,12 @@
         CountryNames(81) = "Ireland"
         CountryNames(82) = "Israel"
         CountryNames(83) = "Italy"
+
         'countries listed in alphabetial order'
         CountryNames(84) = "Jamaica"
         CountryNames(85) = "Japan"
         CountryNames(86) = "Jordan"
+
         'countries listed in alphabetial order'
         CountryNames(87) = "Kazakhstan"
         CountryNames(88) = "Kenya"
@@ -312,6 +324,7 @@
         CountryNames(91) = "South Korea"
         CountryNames(92) = "Kuwait"
         CountryNames(93) = "Kyrgyzstan"
+
         'countries listed in alphabetial order'
         CountryNames(94) = "Laos"
         CountryNames(95) = "Latvia"
@@ -322,6 +335,7 @@
         CountryNames(100) = "Liechtenstein"
         CountryNames(101) = "Lithuania"
         CountryNames(102) = "Luxembourg"
+
         'countries listed in alphabetial order'
         CountryNames(103) = "Macedonia"
         CountryNames(104) = "Madagascar"
@@ -342,6 +356,7 @@
         CountryNames(119) = "Morocco"
         CountryNames(120) = "Mozambique"
         CountryNames(121) = "Myanmar"
+
         'countries listed in alphabetial order'
         CountryNames(122) = "Namibia"
         CountryNames(123) = "Nauru"
@@ -352,8 +367,10 @@
         CountryNames(128) = "Nigeria"
         CountryNames(129) = "Northern Ireland"
         CountryNames(130) = "Norway"
+
         'countries listed in alphabetial order'
         CountryNames(131) = "Oman"
+
         'countries listed in alphabetial order'
         CountryNames(132) = "Pakistan"
         CountryNames(133) = "Palau"
@@ -365,12 +382,15 @@
         CountryNames(139) = "Philippines"
         CountryNames(140) = "Poland"
         CountryNames(141) = "Portugal"
+
         'countries listed in alphabetial order'
         CountryNames(142) = "Qatar"
+
         'countries listed in alphabetial order'
         CountryNames(143) = "Romania"
         CountryNames(144) = "Russia"
         CountryNames(145) = "Rwanda"
+
         'countries listed in alphabetial order'
         CountryNames(146) = "Samoa"
         CountryNames(147) = "San Marino"
@@ -397,6 +417,7 @@
         CountryNames(168) = "Sweden"
         CountryNames(169) = "Switzerland"
         CountryNames(170) = "Syria"
+
         'countries listed in alphabetial order'
         CountryNames(171) = "Taiwan"
         CountryNames(172) = "Tajikistan"
@@ -409,39 +430,15 @@
         CountryNames(179) = "Turkey"
         CountryNames(180) = "Turkmenistan"
         CountryNames(181) = "Tuvalu"
+
         'countries listed in alphabetial order'
         CountryNames(182) = "Uganda"
         CountryNames(183) = "Ukraine"
         CountryNames(184) = "United Arab Emirates"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        CountryNames(0) = "United Kingdom"
-        CountryNames(4) = "United States of America (USA)"
+        CountryNames(185) = "United Kingdom"
+        CountryNames(186) = "United States"
+        CountryNames(187) = "Uruguay"
+        CountryNames(188) = "Uzbekistan"
 
 
 
