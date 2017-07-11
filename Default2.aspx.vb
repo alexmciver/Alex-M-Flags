@@ -141,7 +141,10 @@
         Flagimageurl(134) =
         Flagimageurl(135) =
         Flagimageurl(136) =
-
+        Flagimageurl(137) =
+        Flagimageurl(138) =
+        Flagimageurl(139) =
+        Flagimageurl(140) =
 
 
 
@@ -313,6 +316,10 @@
         CountryNames(134) = "Palestinian State (proposed)"
         CountryNames(135) = "Panama"
         CountryNames(136) = "Papua New Guinea"
+        CountryNames(137) = "Paraguay"
+        CountryNames(138) = "Peru"
+        CountryNames(139) = "Philippines"
+        CountryNames(140) = "Poland"
 
 
 
