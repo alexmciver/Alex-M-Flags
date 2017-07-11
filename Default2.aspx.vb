@@ -100,6 +100,10 @@
         Flagimageurl(93) =
         Flagimageurl(94) =
         Flagimageurl(95) =
+        Flagimageurl(96) =
+        Flagimageurl(97) =
+        Flagimageurl(98) =
+        Flagimageurl(99) =
 
 
 
@@ -231,6 +235,11 @@
         'countries listed in alphabetial order'
         CountryNames(94) = "Laos"
         CountryNames(95) = "Latvia"
+        CountryNames(96) = "Lebanon"
+        CountryNames(97) = "Lesotho"
+        CountryNames(98) = "Liberia"
+        CountryNames(99) = "Libya"
+
 
 
 
