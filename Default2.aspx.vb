@@ -190,7 +190,18 @@
         Flagimageurl(183) =
         Flagimageurl(184) =
         Flagimageurl(185) =
-        Flagimageurl(186) = 
+        Flagimageurl(186) =
+        Flagimageurl(187) =
+        Flagimageurl(188) =
+        Flagimageurl(189) =
+        Flagimageurl(190) =
+        Flagimageurl(191) =
+        Flagimageurl(192) =
+        Flagimageurl(193) =
+        Flagimageurl(194) =
+        Flagimageurl(195) =
+        Flagimageurl(196) =
+        Flagimageurl(197) = 
 
 
 
@@ -440,7 +451,22 @@
         CountryNames(187) = "Uruguay"
         CountryNames(188) = "Uzbekistan"
 
+        'countries listed in alphabetial order'
+        CountryNames(189) = "Vanuatu"
+        CountryNames(190) = "Vatican City"
+        CountryNames(191) = "Venezuela"
+        CountryNames(192) = "Vietnam"
 
+        'countries listed in alphabetial order'
+        CountryNames(193) = "Western Sahara"
+
+        'countries listed in alphabetial order'
+        CountryNames(194) = "Yemen"
+
+        'countries listed in alphabetial order'
+        CountryNames(195) = "Zaire"
+        CountryNames(196) = "Zambia"
+        CountryNames(197) = "Zimbabwe"
 
 
 
