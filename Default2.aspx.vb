@@ -150,6 +150,21 @@
         Flagimageurl(143) =
         Flagimageurl(144) =
         Flagimageurl(145) =
+        Flagimageurl(146) =
+        Flagimageurl(147) =
+        Flagimageurl(148) =
+        Flagimageurl(149) =
+        Flagimageurl(150) =
+        Flagimageurl(151) =
+        Flagimageurl(152) =
+        Flagimageurl(153) =
+        Flagimageurl(154) =
+        Flagimageurl(155) =
+        Flagimageurl(156) =
+        Flagimageurl(157) =
+        Flagimageurl(158) =
+        Flagimageurl(159) =
+        Flagimageurl(160) =
 
 
         Flagimageurl(0) = "https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif"
@@ -331,6 +346,23 @@
         CountryNames(143) = "Romania"
         CountryNames(144) = "Russia"
         CountryNames(145) = "Rwanda"
+        'countries listed in alphabetial order'
+        CountryNames(146) = "Samoa"
+        CountryNames(147) = "San Marino"
+        CountryNames(148) = "São Tomé and Príncipe"
+        CountryNames(149) = "Saudi Arabia"
+        CountryNames(150) = "Senegal"
+        CountryNames(151) = "Serbia"
+        CountryNames(152) = "Seychelles"
+        CountryNames(153) = "Sierra Leone"
+        CountryNames(154) = "Singapore"
+        CountryNames(155) = "Slovakia"
+        CountryNames(156) = "Slovenia"
+        CountryNames(157) = "Solomon Islands"
+        CountryNames(158) = "Somalia"
+        CountryNames(159) = "South Africa"
+        CountryNames(160) = "Spain"
+
 
 
 
@@ -356,9 +388,7 @@
 
 
         CountryNames(0) = "United Kingdom"
-        CountryNames(3) = "Spain"
         CountryNames(4) = "United States of America (USA)"
-        CountryNames(11) = "South Africa"
         CountryNames(13) = "Switzerland"
 
 
