@@ -34,7 +34,18 @@
         Flagimageurl(27) =
         Flagimageurl(28) =
         Flagimageurl(29) =
-        Flagimageurl(30) = 
+        Flagimageurl(30) =
+        Flagimageurl(31) =
+        Flagimageurl(32) =
+        Flagimageurl(33) =
+        Flagimageurl(34) =
+        Flagimageurl(35) =
+        Flagimageurl(36) =
+        Flagimageurl(37) =
+        Flagimageurl(38) =
+        Flagimageurl(39) =
+        Flagimageurl(40) =
+
 
 
 
@@ -67,6 +78,7 @@
         CountryNames(8) = "Australia"
         CountryNames(9) = "Austria"
         CountryNames(10) = "Azerbaijan"
+
         CountryNames(11) = "Bahamas"
         CountryNames(12) = "Bahrain"
         CountryNames(13) = "Bangladesh"
@@ -85,11 +97,21 @@
         CountryNames(26) = "Burkina Faso"
         CountryNames(27) = "Burma (Myanmar)"
         CountryNames(28) = "Burundi"
+
         CountryNames(29) = "Cambodia"
         CountryNames(30) = "Cameroon"
         CountryNames(31) = "Canada"
         CountryNames(32) = "Cape Verde"
-        CountryNames(33) = ""
+        CountryNames(33) = "Central African Republic"
+        CountryNames(34) = "Chad"
+        CountryNames(35) = "Chile"
+        CountryNames(36) = "China"
+        CountryNames(37) = "Colombia"
+        CountryNames(38) = "Comoros"
+        CountryNames(39) = "The Democratic Republic of the Congo"
+        CountryNames(40) = "Republic of Congo"
+
+
 
 
 
@@ -102,7 +124,6 @@
         CountryNames(4) = "United States of America (USA)"
         CountryNames(5) = "Russia"
         CountryNames(6) = "Japan"
-        CountryNames(7) = "China"
         CountryNames(8) = "Italy"
         CountryNames(10) = "Germany"
         CountryNames(11) = "South Africa"
