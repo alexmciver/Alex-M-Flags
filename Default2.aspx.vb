@@ -95,6 +95,11 @@
         Flagimageurl(88) =
         Flagimageurl(89) =
         Flagimageurl(90) =
+        Flagimageurl(91) =
+        Flagimageurl(92) =
+        Flagimageurl(93) =
+        Flagimageurl(94) =
+        Flagimageurl(95) =
 
 
 
@@ -220,6 +225,12 @@
         CountryNames(88) = "Kenya"
         CountryNames(89) = "Kiribati"
         CountryNames(90) = "North Korea"
+        CountryNames(91) = "South Korea"
+        CountryNames(92) = "Kuwait"
+        CountryNames(93) = "Kyrgyzstan"
+        'countries listed in alphabetial order'
+        CountryNames(94) = "Laos"
+        CountryNames(95) = "Latvia"
 
 
 
