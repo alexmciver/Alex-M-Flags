@@ -55,6 +55,26 @@
         Flagimageurl(48) =
         Flagimageurl(49) =
         Flagimageurl(50) =
+        Flagimageurl(51) =
+        Flagimageurl(52) =
+        Flagimageurl(53) =
+        Flagimageurl(54) =
+        Flagimageurl(55) =
+        Flagimageurl(56) =
+        Flagimageurl(57) =
+        Flagimageurl(58) =
+        Flagimageurl(59) =
+        Flagimageurl(60) =
+        Flagimageurl(61) =
+        Flagimageurl(62) =
+        Flagimageurl(63) =
+        Flagimageurl(64) =
+        Flagimageurl(65) =
+        Flagimageurl(66) =
+        Flagimageurl(67) =
+        Flagimageurl(68) =
+        Flagimageurl(69) =
+        Flagimageurl(70) =
 
 
 
@@ -137,6 +157,26 @@
         CountryNames(52) = "Ecuador"
         CountryNames(53) = "Egypt"
         CountryNames(54) = "El Salvador"
+        CountryNames(55) = "Equatorial Guinea"
+        CountryNames(56) = "Eritrea"
+        CountryNames(57) = "Estonia"
+        CountryNames(58) = "Ethiopia"
+        'countries listed in alphabetial order'
+        CountryNames(59) = "Fiji"
+        CountryNames(60) = "Finland"
+        CountryNames(61) = "France"
+        'countries listed in alphabetial order'
+        CountryNames(62) = "Gabon"
+        CountryNames(63) = "Gambia"
+        CountryNames(64) = "Georgia"
+        CountryNames(65) = "Germany"
+        CountryNames(66) = "Ghana"
+        CountryNames(67) = "Greece"
+        CountryNames(68) = "Grenada"
+        CountryNames(69) = "Guatemala"
+        CountryNames(70) = "Guinea"
+
+
 
 
 
@@ -146,13 +186,11 @@
 
 
         CountryNames(0) = "United Kingdom"
-        CountryNames(1) = "France"
         CountryNames(3) = "Spain"
         CountryNames(4) = "United States of America (USA)"
         CountryNames(5) = "Russia"
         CountryNames(6) = "Japan"
         CountryNames(8) = "Italy"
-        CountryNames(10) = "Germany"
         CountryNames(11) = "South Africa"
         CountryNames(13) = "Switzerland"
 
