@@ -125,8 +125,22 @@
         Flagimageurl(118) =
         Flagimageurl(119) =
         Flagimageurl(120) =
-
-
+        Flagimageurl(121) =
+        Flagimageurl(122) =
+        Flagimageurl(123) =
+        Flagimageurl(124) =
+        Flagimageurl(125) =
+        Flagimageurl(126) =
+        Flagimageurl(127) =
+        Flagimageurl(128) =
+        Flagimageurl(129) =
+        Flagimageurl(130) =
+        Flagimageurl(131) =
+        Flagimageurl(132) =
+        Flagimageurl(133) =
+        Flagimageurl(134) =
+        Flagimageurl(135) =
+        Flagimageurl(136) =
 
 
 
@@ -280,6 +294,30 @@
         CountryNames(118) = "Montenegro"
         CountryNames(119) = "Morocco"
         CountryNames(120) = "Mozambique"
+        CountryNames(121) = "Myanmar"
+        'countries listed in alphabetial order'
+        CountryNames(122) = "Namibia"
+        CountryNames(123) = "Nauru"
+        CountryNames(124) = "Nepal"
+        CountryNames(125) = "Netherlands"
+        CountryNames(126) = "New Zealand"
+        CountryNames(127) = "Nicaragua"
+        CountryNames(128) = "Nigeria"
+        CountryNames(129) = "Northern Ireland"
+        CountryNames(130) = "Norway"
+        'countries listed in alphabetial order'
+        CountryNames(131) = "Oman"
+        'countries listed in alphabetial order'
+        CountryNames(132) = "Pakistan"
+        CountryNames(133) = "Palau"
+        CountryNames(134) = "Palestinian State (proposed)"
+        CountryNames(135) = "Panama"
+        CountryNames(136) = "Papua New Guinea"
+
+
+
+
+
 
 
 
