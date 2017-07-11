@@ -165,6 +165,12 @@
         Flagimageurl(158) =
         Flagimageurl(159) =
         Flagimageurl(160) =
+        Flagimageurl(161) =
+        Flagimageurl(162) =
+        Flagimageurl(163) =
+        Flagimageurl(164) =
+        Flagimageurl(165) =
+        Flagimageurl(166) = 
 
 
         Flagimageurl(0) = "https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif"
@@ -362,6 +368,13 @@
         CountryNames(158) = "Somalia"
         CountryNames(159) = "South Africa"
         CountryNames(160) = "Spain"
+        CountryNames(161) = "Sri Lanka"
+        CountryNames(162) = "St. Kitts and Nevis"
+        CountryNames(163) = "St. Lucia"
+        CountryNames(164) = "St. Vincent and the Grenadines"
+        CountryNames(165) = "Sudan"
+        CountryNames(166) = "Suriname"
+
 
 
 
