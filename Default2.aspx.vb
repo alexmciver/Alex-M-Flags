@@ -28,10 +28,10 @@
         Flagimageurl(21) = "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina#/media/File:Flag_of_Bosnia_and_Herzegovina.svg"
         Flagimageurl(22) = "https://en.wikipedia.org/wiki/Botswana#/media/File:Flag_of_Botswana.svg"
         Flagimageurl(23) = "https://en.wikipedia.org/wiki/Brazil#/media/File:Flag_of_Brazil.svg"
-        Flagimageurl(24) = ""
-        Flagimageurl(25) =
-        Flagimageurl(26) =
-        Flagimageurl(27) =
+        Flagimageurl(24) = "https://en.wikipedia.org/wiki/Flag_of_Brunei#/media/File:Flag_of_Brunei.svg"
+        Flagimageurl(25) = "https://en.wikipedia.org/wiki/Flag_of_Bulgaria#/media/File:Flag_of_Bulgaria.svg"
+        Flagimageurl(26) = "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso#/media/File:Flag_of_Burkina_Faso.svg"
+        Flagimageurl(27) = ""
         Flagimageurl(28) =
         Flagimageurl(29) =
         Flagimageurl(30) =
@@ -250,7 +250,7 @@
         CountryNames(24) = "Brunei"
         CountryNames(25) = "Bulgaria"
         CountryNames(26) = "Burkina Faso"
-        CountryNames(27) = "Burma (Myanmar)"
+        CountryNames(27) = "Burma (Mayanmar)"
         CountryNames(28) = "Burundi"
 
         'countries listed in alphabetical order'
@@ -366,7 +366,7 @@
         CountryNames(118) = "Montenegro"
         CountryNames(119) = "Morocco"
         CountryNames(120) = "Mozambique"
-        CountryNames(121) = "Myanmar"
+
 
         'countries listed in alphabetial order'
         CountryNames(122) = "Namibia"
@@ -464,7 +464,6 @@
         CountryNames(194) = "Yemen"
 
         'countries listed in alphabetial order'
-        CountryNames(195) = "Zaire"
         CountryNames(196) = "Zambia"
         CountryNames(197) = "Zimbabwe"
 
