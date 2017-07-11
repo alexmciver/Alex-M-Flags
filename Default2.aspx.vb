@@ -104,7 +104,9 @@
         Flagimageurl(97) =
         Flagimageurl(98) =
         Flagimageurl(99) =
-
+        Flagimageurl(100) =
+        Flagimageurl(101) =
+        Flagimageurl(102) =
 
 
 
@@ -239,6 +241,11 @@
         CountryNames(97) = "Lesotho"
         CountryNames(98) = "Liberia"
         CountryNames(99) = "Libya"
+        CountryNames(100) = "Liechtenstein"
+        CountryNames(101) = "Lithuania"
+        CountryNames(102) = "Luxembourg"
+        'countries listed in alphabetial order'
+
 
 
 
