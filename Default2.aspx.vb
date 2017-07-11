@@ -75,6 +75,17 @@
         Flagimageurl(68) =
         Flagimageurl(69) =
         Flagimageurl(70) =
+        Flagimageurl(71) =
+        Flagimageurl(72) =
+        Flagimageurl(73) =
+        Flagimageurl(74) =
+        Flagimageurl(75) =
+        Flagimageurl(76) =
+        Flagimageurl(77) =
+        Flagimageurl(78) =
+        Flagimageurl(79) =
+        Flagimageurl(80) =
+
 
 
 
@@ -175,6 +186,21 @@
         CountryNames(68) = "Grenada"
         CountryNames(69) = "Guatemala"
         CountryNames(70) = "Guinea"
+        CountryNames(71) = "Guinea-Bissau"
+        CountryNames(72) = "Guyana"
+        'countries listed in alphabetial order'
+        CountryNames(73) = "Haiti"
+        CountryNames(74) = "Honduras"
+        CountryNames(75) = "Hungary"
+        'countries listed in alphabetial order'
+        CountryNames(76) = "Iceland"
+        CountryNames(77) = "India"
+        CountryNames(78) = "Indonesia"
+        CountryNames(79) = "Iran"
+        CountryNames(80) = "Iraq"
+
+
+
 
 
 
