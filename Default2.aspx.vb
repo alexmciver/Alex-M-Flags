@@ -89,7 +89,7 @@
         CountryNames(8) = "Australia"
         CountryNames(9) = "Austria"
         CountryNames(10) = "Azerbaijan"
-
+        'countries listed in alphabetical order'
         CountryNames(11) = "Bahamas"
         CountryNames(12) = "Bahrain"
         CountryNames(13) = "Bangladesh"
@@ -108,7 +108,7 @@
         CountryNames(26) = "Burkina Faso"
         CountryNames(27) = "Burma (Myanmar)"
         CountryNames(28) = "Burundi"
-
+        'countries listed in alphabetical order'
         CountryNames(29) = "Cambodia"
         CountryNames(30) = "Cameroon"
         CountryNames(31) = "Canada"
@@ -127,11 +127,16 @@
         CountryNames(44) = "Cuba"
         CountryNames(45) = "Cyprus"
         CountryNames(46) = "Czech Republic"
-
+        'countries listed in alphabetical order'
         CountryNames(47) = "Denmark"
         CountryNames(48) = "Djibouti"
         CountryNames(49) = "Dominica"
         CountryNames(50) = "Dominican Republic"
+        'countries listed in alphabetical order'
+        CountryNames(51) = "East Timor"
+        CountryNames(52) = "Ecuador"
+        CountryNames(53) = "Egypt"
+        CountryNames(54) = "El Salvador"
 
 
 
