@@ -45,6 +45,17 @@
         Flagimageurl(38) =
         Flagimageurl(39) =
         Flagimageurl(40) =
+        Flagimageurl(41) =
+        Flagimageurl(42) =
+        Flagimageurl(43) =
+        Flagimageurl(44) =
+        Flagimageurl(45) =
+        Flagimageurl(46) =
+        Flagimageurl(47) =
+        Flagimageurl(48) =
+        Flagimageurl(49) =
+        Flagimageurl(50) =
+
 
 
 
@@ -110,6 +121,17 @@
         CountryNames(38) = "Comoros"
         CountryNames(39) = "The Democratic Republic of the Congo"
         CountryNames(40) = "Republic of Congo"
+        CountryNames(41) = "Costa Rica"
+        CountryNames(42) = "Côte d’Ivoire"
+        CountryNames(43) = "Croatia"
+        CountryNames(44) = "Cuba"
+        CountryNames(45) = "Cyprus"
+        CountryNames(46) = "Czech Republic"
+
+        CountryNames(47) = "Denmark"
+        CountryNames(48) = "Djibouti"
+        CountryNames(49) = "Dominica"
+        CountryNames(50) = "Dominican Republic"
 
 
 
