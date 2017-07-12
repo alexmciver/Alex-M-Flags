@@ -41,7 +41,25 @@
         Flagimageurl(32) = "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Flag_of_Cape_Verde.svg" 'Cape Verde'
         Flagimageurl(33) = "https://en.wikipedia.org/wiki/Central_African_Republic#/media/File:Flag_of_the_Central_African_Republic.svg" 'Central African Republic'
         Flagimageurl(34) = "https://en.wikipedia.org/wiki/Chad#/media/File:Flag_of_Chad.svg" 'Chad'
-
+        Flagimageurl(35) = "https://en.wikipedia.org/wiki/Chile#/media/File:Flag_of_Chile.svg" 'Chile'
+        Flagimageurl(36) = "https://en.wikipedia.org/wiki/China#/media/File:Flag_of_the_People%27s_Republic_of_China.svg" 'China'
+        Flagimageurl(37) = "https://en.wikipedia.org/wiki/Colombia#/media/File:Flag_of_Colombia.svg" 'Colombia'
+        Flagimageurl(38) = "https://en.wikipedia.org/wiki/Comoros#/media/File:Flag_of_the_Comoros.svg" 'Comoros'
+        Flagimageurl(39) = "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo#/media/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg" 'The democratic republic of Congo'
+        Flagimageurl(40) = "https://en.wikipedia.org/wiki/Republic_of_the_Congo#/media/File:Flag_of_the_Republic_of_the_Congo.svg" 'Republic of the Congo'
+        Flagimageurl(41) = "https://en.wikipedia.org/wiki/Costa_Rica#/media/File:Flag_of_Costa_Rica_(state).svg" 'Costa Rica'
+        Flagimageurl(42) = "https://en.wikipedia.org/wiki/Ivory_Coast#/media/File:Flag_of_C%C3%B4te_d%27Ivoire.svg" 'Côte d'Ivoire'
+        Flagimageurl(43) = "https://en.wikipedia.org/wiki/Croatia#/media/File:Flag_of_Croatia.svg" 'Croatia'
+        Flagimageurl(44) = "https://en.wikipedia.org/wiki/Cuba#/media/File:Flag_of_Cuba.svg" 'Cuba'
+        Flagimageurl(45) = "https://en.wikipedia.org/wiki/Cyprus#/media/File:Flag_of_Cyprus.svg" 'Cyprus'
+        Flagimageurl(46) = "https://en.wikipedia.org/wiki/Czech_Republic#/media/File:Flag_of_the_Czech_Republic.svg" 'Czech Republic"
+        
+        Flagimageurl(47) = "https://en.wikipedia.org/wiki/Denmark#/media/File:Flag_of_Denmark.svg" 'Denmark'
+        Flagimageurl(48) = "https://en.wikipedia.org/wiki/Djibouti#/media/File:Flag_of_Djibouti.svg" 'Djibouti'
+        Flagimageurl(49) = "https://en.wikipedia.org/wiki/Dominica#/media/File:Flag_of_Dominica.svg" 'Dominica'
+        Flagimageurl(50) = "https://en.wikipedia.org/wiki/Dominican_Republic#/media/File:Flag_of_the_Dominican_Republic.svg" 'Dominican Republic'
+        Flagimageurl(51) = "
+        
 
         Dim CountryNames(10) As String 'creating the country names array'
         CountryNames(0) = "Afghanistan"
@@ -88,7 +106,7 @@
         CountryNames(37) = "Colombia"
         CountryNames(38) = "Comoros"
         CountryNames(39) = "The Democratic Republic Of the Congo"
-        CountryNames(40) = "Republic Of Congo"
+        CountryNames(40) = "Republic of the Congo"
         CountryNames(41) = "Costa Rica"
         CountryNames(42) = "Côte d'Ivoire"
         CountryNames(43) = "Croatia"
