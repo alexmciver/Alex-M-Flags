@@ -31,38 +31,38 @@
         Flagimageurl(24) = "https://en.wikipedia.org/wiki/Flag_of_Brunei#/media/File:Flag_of_Brunei.svg"
         Flagimageurl(25) = "https://en.wikipedia.org/wiki/Flag_of_Bulgaria#/media/File:Flag_of_Bulgaria.svg"
         Flagimageurl(26) = "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso#/media/File:Flag_of_Burkina_Faso.svg"
-        Flagimageurl(27) = ""
-        Flagimageurl(28) =
-        Flagimageurl(29) =
-        Flagimageurl(30) =
-        Flagimageurl(31) =
-        Flagimageurl(32) =
-        Flagimageurl(33) =
-        Flagimageurl(34) =
-        Flagimageurl(35) =
-        Flagimageurl(36) =
-        Flagimageurl(37) =
-        Flagimageurl(38) =
-        Flagimageurl(39) =
-        Flagimageurl(40) =
-        Flagimageurl(41) =
-        Flagimageurl(42) =
-        Flagimageurl(43) =
-        Flagimageurl(44) =
-        Flagimageurl(45) =
-        Flagimageurl(46) =
-        Flagimageurl(47) =
-        Flagimageurl(48) =
-        Flagimageurl(49) =
-        Flagimageurl(50) =
-        Flagimageurl(51) =
-        Flagimageurl(52) =
-        Flagimageurl(53) =
-        Flagimageurl(54) =
-        Flagimageurl(55) =
-        Flagimageurl(56) =
-        Flagimageurl(57) =
-        Flagimageurl(58) =
+        Flagimageurl(27) = "https://en.wikipedia.org/wiki/Myanmar#/media/File:Flag_of_Myanmar.svg"
+        Flagimageurl(28) = "https://en.wikipedia.org/wiki/Burundi#/media/File:Flag_of_Burundi.svg"
+        Flagimageurl(29) = "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg"
+        Flagimageurl(30) = "https://en.wikipedia.org/wiki/Cameroon#/media/File:Flag_of_Cameroon.svg"
+        Flagimageurl(31) = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"
+        Flagimageurl(32) = "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Flag_of_Cape_Verde.svg"
+        Flagimageurl(33) = "https://en.wikipedia.org/wiki/Central_African_Republic#/media/File:Flag_of_the_Central_African_Republic.svg"
+        Flagimageurl(34) = "https://en.wikipedia.org/wiki/Chad#/media/File:Flag_of_Chad.svg"
+        Flagimageurl(35) = "https://en.wikipedia.org/wiki/Chile#/media/File:Flag_of_Chile.svg"
+        Flagimageurl(36) = "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png"
+        Flagimageurl(37) = "https://en.wikipedia.org/wiki/Flag_of_Colombia#/media/File:Flag_of_Colombia.svg"
+        Flagimageurl(38) = "https://en.wikipedia.org/wiki/Flag_of_the_Comoros#/media/File:Flag_of_the_Comoros.svg"
+        Flagimageurl(39) = "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo#/media/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+        Flagimageurl(40) = "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_the_Congo#/media/File:Flag_of_the_Republic_of_the_Congo.svg"
+        Flagimageurl(41) = "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica#/media/File:Flag_of_Costa_Rica_(state).svg"
+        Flagimageurl(42) = "https://en.wikipedia.org/wiki/Ivory_Coast#/media/File:Flag_of_C%C3%B4te_d%27Ivoire.svg"
+        Flagimageurl(43) = "https://en.wikipedia.org/wiki/Croatia#/media/File:Flag_of_Croatia.svg"
+        Flagimageurl(44) = "https://en.wikipedia.org/wiki/Cuba#/media/File:Flag_of_Cuba.svg"
+        Flagimageurl(45) = "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+        Flagimageurl(46) = "https://en.wikipedia.org/wiki/Czech_Republic#/media/File:Flag_of_the_Czech_Republic.svg"
+        Flagimageurl(47) = "https://en.wikipedia.org/wiki/Denmark#/media/File:Flag_of_Denmark.svg"
+        Flagimageurl(48) = "https://en.wikipedia.org/wiki/Djibouti#/media/File:Flag_of_Djibouti.svg"
+        Flagimageurl(49) = "https://en.wikipedia.org/wiki/Flag_of_Dominica#/media/File:Flag_of_Dominica.svg"
+        Flagimageurl(50) = "https://en.wikipedia.org/wiki/Dominican_Republic#/media/File:Flag_of_the_Dominican_Republic.svg"
+        Flagimageurl(51) = "https://en.wikipedia.org/wiki/East_Timor#/media/File:Flag_of_East_Timor.svg"
+        Flagimageurl(52) = "https://en.wikipedia.org/wiki/Ecuador#/media/File:Flag_of_Ecuador.svg"
+        Flagimageurl(53) = "https://en.wikipedia.org/wiki/Egypt#/media/File:Flag_of_Egypt.svg"
+        Flagimageurl(54) = "https://en.wikipedia.org/wiki/El_Salvador#/media/File:Flag_of_El_Salvador.svg"
+        Flagimageurl(55) = "https://en.wikipedia.org/wiki/Equatorial_Guinea#/media/File:Flag_of_Equatorial_Guinea.svg"
+        Flagimageurl(56) = "https://en.wikipedia.org/wiki/Eritrea#/media/File:Flag_of_Eritrea.svg"
+        Flagimageurl(57) = "https://en.wikipedia.org/wiki/Estonia#/media/File:Flag_of_Estonia.svg"
+        Flagimageurl(58) = "https://en.wikipedia.org/wiki/Ethiopia#/media/File:Flag_of_Ethiopia.svg"
         Flagimageurl(59) =
         Flagimageurl(60) =
         Flagimageurl(61) =
@@ -201,24 +201,7 @@
         Flagimageurl(194) =
         Flagimageurl(195) =
         Flagimageurl(196) =
-        Flagimageurl(197) = 
 
-
-
-        Flagimageurl(0) = "https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif"
-        Flagimageurl(1) = "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/800px-Flag_of_France.svg.png"
-        Flagimageurl(2) = "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png"
-        Flagimageurl(3) = "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png"
-        Flagimageurl(4) = "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1235px-Flag_of_the_United_States.svg.png"
-        Flagimageurl(5) = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Flag_of_Russia_%28Kremlin.ru%29.svg/1024px-Flag_of_Russia_%28Kremlin.ru%29.svg.png"
-        Flagimageurl(6) = "https://upload.wikimedia.org/wikipedia/commons/6/6d/Japan_flag_-_variant.png"
-        Flagimageurl(7) = "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png"
-        Flagimageurl(8) = "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1280px-Flag_of_Italy.svg.png"
-        Flagimageurl(9) = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Canada.png"
-        Flagimageurl(10) = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png"
-        Flagimageurl(11) = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1024px-Flag_of_South_Africa.svg.png"
-        Flagimageurl(12) = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1024px-Flag_of_Australia.svg.png"
-        Flagimageurl(13) = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/768px-Flag_of_Switzerland.svg.png"
 
         Dim CountryNames(10) As String 'creating the country names array'
         CountryNames(0) = "Afghanistan"
@@ -250,7 +233,7 @@
         CountryNames(24) = "Brunei"
         CountryNames(25) = "Bulgaria"
         CountryNames(26) = "Burkina Faso"
-        CountryNames(27) = "Burma (Mayanmar)"
+        CountryNames(27) = "Mayanmar (Burma)"
         CountryNames(28) = "Burundi"
 
         'countries listed in alphabetical order'
@@ -464,8 +447,8 @@
         CountryNames(194) = "Yemen"
 
         'countries listed in alphabetial order'
-        CountryNames(196) = "Zambia"
-        CountryNames(197) = "Zimbabwe"
+        CountryNames(195) = "Zambia"
+        CountryNames(196) = "Zimbabwe"
 
 
 
