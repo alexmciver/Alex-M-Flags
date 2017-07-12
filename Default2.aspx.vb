@@ -4,215 +4,43 @@
     Private Sub form1_Load(sender As Object, e As EventArgs) Handles form1.Load
 
         Dim Flagimageurl(10) As String ' creating the flag image url array'
-        Flagimageurl(0) = "https://en.wikipedia.org/wiki/Flag_of_Afghanistan#/media/File:Flag_of_Afghanistan.svg"
-        Flagimageurl(1) = "https://en.wikipedia.org/wiki/Flag_of_Albania#/media/File:Flag_of_Albania.svg"
-        Flagimageurl(2) = "https://commons.wikimedia.org/wiki/File:Flag_of_Algeria.svg"
-        Flagimageurl(3) = "https://en.wikipedia.org/wiki/Flag_of_Andorra#/media/File:Flag_of_Andorra.svg"
-        Flagimageurl(4) = "https://en.wikipedia.org/wiki/Flag_of_Angola#/media/File:Flag_of_Angola.svg"
-        Flagimageurl(5) = "https://en.wikipedia.org/wiki/Antigua_and_Barbuda#/media/File:Flag_of_Antigua_and_Barbuda.svg"
-        Flagimageurl(6) = "https://en.wikipedia.org/wiki/Argentina#/media/File:Flag_of_Argentina.svg"
-        Flagimageurl(7) = "https://en.wikipedia.org/wiki/Flag_of_Armenia#/media/File:Flag_of_Armenia.svg"
-        Flagimageurl(8) = "https://en.wikipedia.org/wiki/Flag_of_Australia#/media/File:Flag_of_Australia.svg"
-        Flagimageurl(9) = "https://en.wikipedia.org/wiki/Austria#/media/File:Flag_of_Austria.svg"
-        Flagimageurl(10) = "https://en.wikipedia.org/wiki/Azerbaijan#/media/File:Flag_of_Azerbaijan.svg"
+        Flagimageurl(0) = "https://en.wikipedia.org/wiki/Flag_of_Afghanistan#/media/File:Flag_of_Afghanistan.svg" 'Afghanistan'
+        Flagimageurl(1) = "https://en.wikipedia.org/wiki/Albania#/media/File:Flag_of_Albania.svg" 'Albania'
+        Flagimageurl(2) = "https://en.wikipedia.org/wiki/Algeria#/media/File:Flag_of_Algeria.svg" 'Algeria'
+        Flagimageurl(3) = "https://en.wikipedia.org/wiki/Andorra#/media/File:Flag_of_Andorra.svg" 'Andorra'
+        Flagimageurl(4) = "https://en.wikipedia.org/wiki/Angola#/media/File:Flag_of_Angola.svg" 'Angola'
+        Flagimageurl(5) = "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg" 'Antigua and Barbuda'
+        Flagimageurl(6) = "https://en.wikipedia.org/wiki/Argentina#/media/File:Flag_of_Argentina.svg" 'Argentina'
+        Flagimageurl(7) = "https://en.wikipedia.org/wiki/Flag_of_Armenia#/media/File:Flag_of_Armenia.svg" 'Armenia'
+        Flagimageurl(8) = "https://en.wikipedia.org/wiki/Flag_of_Australia#/media/File:Flag_of_Australia.svg" 'Australia'
+        Flagimageurl(9) = "https://en.wikipedia.org/wiki/Austria#/media/File:Flag_of_Austria.svg" 'Austria'
+        Flagimageurl(10) = "https://en.wikipedia.org/wiki/Azerbaijan#/media/File:Flag_of_Azerbaijan.svg" 'Azerbaijan'
 
-        Flagimageurl(11) = "https://en.wikipedia.org/wiki/The_Bahamas#/media/File:Flag_of_the_Bahamas.svg"
-        Flagimageurl(12) = "https://en.wikipedia.org/wiki/Bahrain#/media/File:Flag_of_Bahrain.svg"
-        Flagimageurl(13) = "https://en.wikipedia.org/wiki/Bangladesh#/media/File:Flag_of_Bangladesh.svg"
-        Flagimageurl(14) = "https://en.wikipedia.org/wiki/Barbados#/media/File:Flag_of_Barbados.svg"
-        Flagimageurl(15) = "https://en.wikipedia.org/wiki/Belarus#/media/File:Flag_of_Belarus.svg"
-        Flagimageurl(16) = "https://en.wikipedia.org/wiki/Belgium#/media/File:Flag_of_Belgium.svg"
-        Flagimageurl(17) = "https://en.wikipedia.org/wiki/Belize#/media/File:Flag_of_Belize.svg"
-        Flagimageurl(18) = "https://en.wikipedia.org/wiki/Benin#/media/File:Flag_of_Benin.svg"
-        Flagimageurl(19) = "https://en.wikipedia.org/wiki/Bhutan#/media/File:Flag_of_Bhutan.svg"
-        Flagimageurl(20) = "https://en.wikipedia.org/wiki/Bolivia#/media/File:Flag_of_Bolivia_(state).svg"
-        Flagimageurl(21) = "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina#/media/File:Flag_of_Bosnia_and_Herzegovina.svg"
-        Flagimageurl(22) = "https://en.wikipedia.org/wiki/Botswana#/media/File:Flag_of_Botswana.svg"
-        Flagimageurl(23) = "https://en.wikipedia.org/wiki/Brazil#/media/File:Flag_of_Brazil.svg"
-        Flagimageurl(24) = "https://en.wikipedia.org/wiki/Flag_of_Brunei#/media/File:Flag_of_Brunei.svg"
-        Flagimageurl(25) = "https://en.wikipedia.org/wiki/Flag_of_Bulgaria#/media/File:Flag_of_Bulgaria.svg"
-        Flagimageurl(26) = "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso#/media/File:Flag_of_Burkina_Faso.svg"
-        Flagimageurl(27) = "https://en.wikipedia.org/wiki/Myanmar#/media/File:Flag_of_Myanmar.svg"
-        Flagimageurl(28) = "https://en.wikipedia.org/wiki/Burundi#/media/File:Flag_of_Burundi.svg"
+        Flagimageurl(11) = "https://en.wikipedia.org/wiki/The_Bahamas#/media/File:Flag_of_the_Bahamas.svg" 'Bahamas'
+        Flagimageurl(12) = "https://en.wikipedia.org/wiki/Bahrain#/media/File:Flag_of_Bahrain.svg" 'Bahrain'
+        Flagimageurl(13) = "https://en.wikipedia.org/wiki/Bangladesh#/media/File:Flag_of_Bangladesh.svg" 'Bangladesh'
+        Flagimageurl(14) = "https://en.wikipedia.org/wiki/Barbados#/media/File:Flag_of_Barbados.svg" 'Barbados'
+        Flagimageurl(15) = "https://en.wikipedia.org/wiki/Belarus#/media/File:Flag_of_Belarus.svg" 'Belarus'
+        Flagimageurl(16) = "https://en.wikipedia.org/wiki/Belgium#/media/File:Flag_of_Belgium.svg" 'Belgium'
+        Flagimageurl(17) = "https://en.wikipedia.org/wiki/Belize#/media/File:Flag_of_Belize.svg" 'Belize'
+        Flagimageurl(18) = "https://en.wikipedia.org/wiki/Benin#/media/File:Flag_of_Benin.svg" 'Benin'
+        Flagimageurl(19) = "https://en.wikipedia.org/wiki/Bhutan#/media/File:Flag_of_Bhutan.svg" 'Bhutan'
+        Flagimageurl(20) = "https://en.wikipedia.org/wiki/Bolivia#/media/File:Flag_of_Bolivia_(state).svg" 'Bolivia'
+        Flagimageurl(21) = "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina#/media/File:Flag_of_Bosnia_and_Herzegovina.svg" 'Bosnia and Herzegovina'
+        Flagimageurl(22) = "https://en.wikipedia.org/wiki/Botswana#/media/File:Flag_of_Botswana.svg" 'Botswana'
+        Flagimageurl(23) = "https://en.wikipedia.org/wiki/Brazil#/media/File:Flag_of_Brazil.svg" 'Brazil'
+        Flagimageurl(24) = "https://en.wikipedia.org/wiki/Flag_of_Brunei#/media/File:Flag_of_Brunei.svg" 'Brunei'
+        Flagimageurl(25) = "https://en.wikipedia.org/wiki/Flag_of_Bulgaria#/media/File:Flag_of_Bulgaria.svg" 'Bulgaria'
+        Flagimageurl(26) = "https://en.wikipedia.org/wiki/Flag_of_Burkina_Faso#/media/File:Flag_of_Burkina_Faso.svg" 'Burkina Faso'
+        Flagimageurl(27) = "https://en.wikipedia.org/wiki/Myanmar#/media/File:Flag_of_Myanmar.svg" 'Myanmar (Burma)'
+        Flagimageurl(28) = "https://en.wikipedia.org/wiki/Burundi#/media/File:Flag_of_Burundi.svg" 'Burundi'
 
-        Flagimageurl(29) = "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg"
-        Flagimageurl(30) = "https://en.wikipedia.org/wiki/Cameroon#/media/File:Flag_of_Cameroon.svg"
-        Flagimageurl(31) = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg"
-        Flagimageurl(32) = "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Flag_of_Cape_Verde.svg"
-        Flagimageurl(33) = "https://en.wikipedia.org/wiki/Central_African_Republic#/media/File:Flag_of_the_Central_African_Republic.svg"
-        Flagimageurl(34) = "https://en.wikipedia.org/wiki/Chad#/media/File:Flag_of_Chad.svg"
-        Flagimageurl(35) = "https://en.wikipedia.org/wiki/Chile#/media/File:Flag_of_Chile.svg"
-        Flagimageurl(36) = "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_China.png"
-        Flagimageurl(37) = "https://en.wikipedia.org/wiki/Flag_of_Colombia#/media/File:Flag_of_Colombia.svg"
-        Flagimageurl(38) = "https://en.wikipedia.org/wiki/Flag_of_the_Comoros#/media/File:Flag_of_the_Comoros.svg"
-        Flagimageurl(39) = "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo#/media/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg"
-        Flagimageurl(40) = "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_the_Congo#/media/File:Flag_of_the_Republic_of_the_Congo.svg"
-        Flagimageurl(41) = "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica#/media/File:Flag_of_Costa_Rica_(state).svg"
-        Flagimageurl(42) = "https://en.wikipedia.org/wiki/Ivory_Coast#/media/File:Flag_of_C%C3%B4te_d%27Ivoire.svg"
-        Flagimageurl(43) = "https://en.wikipedia.org/wiki/Croatia#/media/File:Flag_of_Croatia.svg"
-        Flagimageurl(44) = "https://en.wikipedia.org/wiki/Cuba#/media/File:Flag_of_Cuba.svg"
-        Flagimageurl(45) = "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
-        Flagimageurl(46) = "https://en.wikipedia.org/wiki/Czech_Republic#/media/File:Flag_of_the_Czech_Republic.svg"
-
-        Flagimageurl(47) = "https://en.wikipedia.org/wiki/Denmark#/media/File:Flag_of_Denmark.svg"
-        Flagimageurl(48) = "https://en.wikipedia.org/wiki/Djibouti#/media/File:Flag_of_Djibouti.svg"
-        Flagimageurl(49) = "https://en.wikipedia.org/wiki/Flag_of_Dominica#/media/File:Flag_of_Dominica.svg"
-        Flagimageurl(50) = "https://en.wikipedia.org/wiki/Dominican_Republic#/media/File:Flag_of_the_Dominican_Republic.svg"
-
-        Flagimageurl(51) = "https://en.wikipedia.org/wiki/East_Timor#/media/File:Flag_of_East_Timor.svg"
-        Flagimageurl(52) = "https://en.wikipedia.org/wiki/Ecuador#/media/File:Flag_of_Ecuador.svg"
-        Flagimageurl(53) = "https://en.wikipedia.org/wiki/Egypt#/media/File:Flag_of_Egypt.svg"
-        Flagimageurl(54) = "https://en.wikipedia.org/wiki/El_Salvador#/media/File:Flag_of_El_Salvador.svg"
-        Flagimageurl(55) = "https://en.wikipedia.org/wiki/Equatorial_Guinea#/media/File:Flag_of_Equatorial_Guinea.svg"
-        Flagimageurl(56) = "https://en.wikipedia.org/wiki/Eritrea#/media/File:Flag_of_Eritrea.svg"
-        Flagimageurl(57) = "https://en.wikipedia.org/wiki/Estonia#/media/File:Flag_of_Estonia.svg"
-        Flagimageurl(58) = "https://en.wikipedia.org/wiki/Ethiopia#/media/File:Flag_of_Ethiopia.svg"
-
-        Flagimageurl(59) = "https://en.wikipedia.org/wiki/Fiji#/media/File:Flag_of_Fiji.svg"
-        Flagimageurl(60) = "https://en.wikipedia.org/wiki/Finland#/media/File:Flag_of_Finland.svg"
-        Flagimageurl(61) = "https://en.wikipedia.org/wiki/France#/media/File:Flag_of_France.svg"
-
-        Flagimageurl(62) = "https://en.wikipedia.org/wiki/Gabon#/media/File:Flag_of_Gabon.svg"
-        Flagimageurl(63) = "https://en.wikipedia.org/wiki/The_Gambia#/media/File:Flag_of_The_Gambia.svg"
-        Flagimageurl(64) = "https://en.wikipedia.org/wiki/Georgia_(country)#/media/File:Flag_of_Georgia.svg"
-        Flagimageurl(65) = "https://en.wikipedia.org/wiki/Germany#/media/File:Flag_of_Germany.svg"
-        Flagimageurl(66) = "https://en.wikipedia.org/wiki/Ghana#/media/File:Flag_of_Ghana.svg"
-        Flagimageurl(67) = "https://en.wikipedia.org/wiki/Greece#/media/File:Flag_of_Greece.svg"
-        Flagimageurl(68) = "https://en.wikipedia.org/wiki/Grenada#/media/File:Flag_of_Grenada.svg"
-        Flagimageurl(69) = "https://en.wikipedia.org/wiki/Guatemala#/media/File:Flag_of_Guatemala.svg"
-        Flagimageurl(70) = "https://en.wikipedia.org/wiki/Guinea#/media/File:Flag_of_Guinea.svg"
-        Flagimageurl(71) = "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Flag_of_Guinea-Bissau.svg"
-        Flagimageurl(72) = "https://en.wikipedia.org/wiki/Guyana#/media/File:Flag_of_Guyana.svg"
-
-        Flagimageurl(73) = "https://en.wikipedia.org/wiki/Haiti#/media/File:Flag_of_Haiti.svg"
-        Flagimageurl(74) = "https://en.wikipedia.org/wiki/Honduras#/media/File:Flag_of_Honduras.svg"
-        Flagimageurl(75) = "https://en.wikipedia.org/wiki/Hungary#/media/File:Flag_of_Hungary.svg"
-
-        Flagimageurl(76) = "https://en.wikipedia.org/wiki/Iceland#/media/File:Flag_of_Iceland.svg"
-        Flagimageurl(77) = "https://en.wikipedia.org/wiki/India#/media/File:Flag_of_India.svg"
-        Flagimageurl(78) = "https://en.wikipedia.org/wiki/Indonesia#/media/File:Flag_of_Indonesia.svg"
-        Flagimageurl(79) = "https://en.wikipedia.org/wiki/Iran#/media/File:Flag_of_Iran.svg"
-        Flagimageurl(80) = "https://en.wikipedia.org/wiki/Iraq#/media/File:Flag_of_Iraq.svg"
-        Flagimageurl(81) = "https://en.wikipedia.org/wiki/Flag_of_Ireland#/media/File:Flag_of_Ireland.svg"
-        Flagimageurl(82) = "https://en.wikipedia.org/wiki/Israel#/media/File:Flag_of_Israel.svg"
-        Flagimageurl(83) = "https://en.wikipedia.org/wiki/Italy#/media/File:Flag_of_Italy.svg"
-
-        Flagimageurl(84) = "https://en.wikipedia.org/wiki/Jamaica#/media/File:Flag_of_Jamaica.svg"
-        Flagimageurl(85) = "https://en.wikipedia.org/wiki/Japan#/media/File:Flag_of_Japan.svg"
-        Flagimageurl(86) = "https://en.wikipedia.org/wiki/Jordan#/media/File:Flag_of_Jordan.svg"
-
-        Flagimageurl(87) = "https://en.wikipedia.org/wiki/Kazakhstan#/media/File:Flag_of_Kazakhstan.svg"
-        Flagimageurl(88) = "https://en.wikipedia.org/wiki/Kenya#/media/File:Flag_of_Kenya.svg"
-        Flagimageurl(89) = "https://en.wikipedia.org/wiki/Kiribati#/media/File:Flag_of_Kiribati.svg"
-        Flagimageurl(90) = "https://en.wikipedia.org/wiki/North_Korea#/media/File:Flag_of_North_Korea.svg"
-        Flagimageurl(91) = "https://en.wikipedia.org/wiki/South_Korea#/media/File:Flag_of_South_Korea.svg"
-        Flagimageurl(92) = "https://en.wikipedia.org/wiki/Kuwait#/media/File:Flag_of_Kuwait.svg"
-        Flagimageurl(93) = "https://en.wikipedia.org/wiki/Kyrgyzstan#/media/File:Flag_of_Kyrgyzstan.svg"
-
-        Flagimageurl(94) = "https://en.wikipedia.org/wiki/Laos#/media/File:Flag_of_Laos.svg"
-        Flagimageurl(95) = "https://en.wikipedia.org/wiki/Latvia#/media/File:Flag_of_Latvia.svg"
-        Flagimageurl(96) = "https://en.wikipedia.org/wiki/Lebanon#/media/File:Flag_of_Lebanon.svg"
-        Flagimageurl(97) = "https://en.wikipedia.org/wiki/File:Flag_of_Lesotho.svg"
-        Flagimageurl(98) = "https://en.wikipedia.org/wiki/Liberia#/media/File:Flag_of_Liberia.svg"
-        Flagimageurl(99) = "https://en.wikipedia.org/wiki/Libya#/media/File:Flag_of_Libya.svg"
-        Flagimageurl(100) = "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein#/media/File:Flag_of_Liechtenstein.svg"
-        Flagimageurl(101) = "https://en.wikipedia.org/wiki/Lithuania#/media/File:Flag_of_Lithuania.svg"
-        Flagimageurl(102) = "https://en.wikipedia.org/wiki/Luxembourg#/media/File:Flag_of_Luxembourg.svg"
-
-        Flagimageurl(103) = "https://en.wikipedia.org/wiki/Republic_of_Macedonia#/media/File:Flag_of_Macedonia.svg"
-        Flagimageurl(104) = "https://en.wikipedia.org/wiki/Madagascar#/media/File:Flag_of_Madagascar.svg"
-        Flagimageurl(105) = "https://en.wikipedia.org/wiki/Malawi#/media/File:Flag_of_Malawi.svg"
-        Flagimageurl(106) = "https://en.wikipedia.org/wiki/Malaysia#/media/File:Flag_of_Malaysia.svg"
-        Flagimageurl(107) = "https://en.wikipedia.org/wiki/Maldives#/media/File:Flag_of_Maldives.svg"
-        Flagimageurl(108) = "https://en.wikipedia.org/wiki/Mali#/media/File:Flag_of_Mali.svg"
-        Flagimageurl(109) = "https://en.wikipedia.org/wiki/Malta#/media/File:Flag_of_Malta.svg"
-        Flagimageurl(110) = "https://en.wikipedia.org/wiki/Marshall_Islands#/media/File:Flag_of_the_Marshall_Islands.svg"
-        Flagimageurl(111) = ""
-        Flagimageurl(112) =
-        Flagimageurl(113) =
-        Flagimageurl(114) =
-        Flagimageurl(115) =
-        Flagimageurl(116) =
-        Flagimageurl(117) =
-        Flagimageurl(118) =
-        Flagimageurl(119) =
-        Flagimageurl(120) =
-        Flagimageurl(121) =
-        Flagimageurl(122) =
-        Flagimageurl(123) =
-        Flagimageurl(124) =
-        Flagimageurl(125) =
-        Flagimageurl(126) =
-        Flagimageurl(127) =
-        Flagimageurl(128) =
-        Flagimageurl(129) =
-        Flagimageurl(130) =
-        Flagimageurl(131) =
-        Flagimageurl(132) =
-        Flagimageurl(133) =
-        Flagimageurl(134) =
-        Flagimageurl(135) =
-        Flagimageurl(136) =
-        Flagimageurl(137) =
-        Flagimageurl(138) =
-        Flagimageurl(139) =
-        Flagimageurl(140) =
-        Flagimageurl(141) =
-        Flagimageurl(142) =
-        Flagimageurl(143) =
-        Flagimageurl(144) =
-        Flagimageurl(145) =
-        Flagimageurl(146) =
-        Flagimageurl(147) =
-        Flagimageurl(148) =
-        Flagimageurl(149) =
-        Flagimageurl(150) =
-        Flagimageurl(151) =
-        Flagimageurl(152) =
-        Flagimageurl(153) =
-        Flagimageurl(154) =
-        Flagimageurl(155) =
-        Flagimageurl(156) =
-        Flagimageurl(157) =
-        Flagimageurl(158) =
-        Flagimageurl(159) =
-        Flagimageurl(160) =
-        Flagimageurl(161) =
-        Flagimageurl(162) =
-        Flagimageurl(163) =
-        Flagimageurl(164) =
-        Flagimageurl(165) =
-        Flagimageurl(166) =
-        Flagimageurl(167) =
-        Flagimageurl(168) =
-        Flagimageurl(169) =
-        Flagimageurl(170) =
-        Flagimageurl(171) =
-        Flagimageurl(172) =
-        Flagimageurl(173) =
-        Flagimageurl(174) =
-        Flagimageurl(175) =
-        Flagimageurl(176) =
-        Flagimageurl(177) =
-        Flagimageurl(178) =
-        Flagimageurl(179) =
-        Flagimageurl(180) =
-        Flagimageurl(181) =
-        Flagimageurl(182) =
-        Flagimageurl(183) =
-        Flagimageurl(184) =
-        Flagimageurl(185) =
-        Flagimageurl(186) =
-        Flagimageurl(187) =
-        Flagimageurl(188) =
-        Flagimageurl(189) =
-        Flagimageurl(190) =
-        Flagimageurl(191) =
-        Flagimageurl(192) =
-        Flagimageurl(193) =
-        Flagimageurl(194) =
-        Flagimageurl(195) =
-        Flagimageurl(196) =
+        Flagimageurl(29) = "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg" 'Cambodia'
+        Flagimageurl(30) = "https://en.wikipedia.org/wiki/Cameroon#/media/File:Flag_of_Cameroon.svg" 'Cameroon'
+        Flagimageurl(31) = "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg" 'Canada'
+        Flagimageurl(32) = "https://en.wikipedia.org/wiki/Cape_Verde#/media/File:Flag_of_Cape_Verde.svg" 'Cape Verde'
+        Flagimageurl(33) = "https://en.wikipedia.org/wiki/Central_African_Republic#/media/File:Flag_of_the_Central_African_Republic.svg" 'Central African Republic'
+        Flagimageurl(34) = "https://en.wikipedia.org/wiki/Chad#/media/File:Flag_of_Chad.svg" 'Chad'
 
 
         Dim CountryNames(10) As String 'creating the country names array'
@@ -221,7 +49,7 @@
         CountryNames(2) = "Algeria"
         CountryNames(3) = "Andorra"
         CountryNames(4) = "Angola"
-        CountryNames(5) = "Antigua and Barbuda"
+        CountryNames(5) = "Antigua And Barbuda"
         CountryNames(6) = "Argentina"
         CountryNames(7) = "Armenia"
         CountryNames(8) = "Australia"
@@ -239,7 +67,7 @@
         CountryNames(18) = "Benin"
         CountryNames(19) = "Bhutan"
         CountryNames(20) = "Bolivia"
-        CountryNames(21) = "Bosnia and Herzegovina"
+        CountryNames(21) = "Bosnia And Herzegovina"
         CountryNames(22) = "Botswana"
         CountryNames(23) = "Brazil"
         CountryNames(24) = "Brunei"
@@ -259,10 +87,10 @@
         CountryNames(36) = "China"
         CountryNames(37) = "Colombia"
         CountryNames(38) = "Comoros"
-        CountryNames(39) = "The Democratic Republic of the Congo"
-        CountryNames(40) = "Republic of Congo"
+        CountryNames(39) = "The Democratic Republic Of the Congo"
+        CountryNames(40) = "Republic Of Congo"
         CountryNames(41) = "Costa Rica"
-        CountryNames(42) = "Côte d’Ivoire"
+        CountryNames(42) = "Côte d'Ivoire"
         CountryNames(43) = "Croatia"
         CountryNames(44) = "Cuba"
         CountryNames(45) = "Cyprus"
@@ -371,96 +199,95 @@
         CountryNames(126) = "New Zealand"
         CountryNames(127) = "Nicaragua"
         CountryNames(128) = "Nigeria"
-        CountryNames(129) = "Northern Ireland"
-        CountryNames(130) = "Norway"
+        CountryNames(129) = "Norway"
 
         'countries listed in alphabetial order'
-        CountryNames(131) = "Oman"
+        CountryNames(130) = "Oman"
 
         'countries listed in alphabetial order'
-        CountryNames(132) = "Pakistan"
-        CountryNames(133) = "Palau"
-        CountryNames(134) = "Palestinian State (proposed)"
-        CountryNames(135) = "Panama"
-        CountryNames(136) = "Papua New Guinea"
-        CountryNames(137) = "Paraguay"
-        CountryNames(138) = "Peru"
-        CountryNames(139) = "Philippines"
-        CountryNames(140) = "Poland"
-        CountryNames(141) = "Portugal"
+        CountryNames(131) = "Pakistan"
+        CountryNames(132) = "Palau"
+        CountryNames(133) = "Palestinian State (proposed)"
+        CountryNames(134) = "Panama"
+        CountryNames(135) = "Papua New Guinea"
+        CountryNames(136) = "Paraguay"
+        CountryNames(137) = "Peru"
+        CountryNames(138) = "Philippines"
+        CountryNames(139) = "Poland"
+        CountryNames(140) = "Portugal"
 
         'countries listed in alphabetial order'
-        CountryNames(142) = "Qatar"
+        CountryNames(140) = "Qatar"
 
         'countries listed in alphabetial order'
-        CountryNames(143) = "Romania"
-        CountryNames(144) = "Russia"
-        CountryNames(145) = "Rwanda"
+        CountryNames(141) = "Romania"
+        CountryNames(142) = "Russia"
+        CountryNames(143) = "Rwanda"
 
         'countries listed in alphabetial order'
-        CountryNames(146) = "Samoa"
-        CountryNames(147) = "San Marino"
-        CountryNames(148) = "São Tomé and Príncipe"
-        CountryNames(149) = "Saudi Arabia"
-        CountryNames(150) = "Senegal"
-        CountryNames(151) = "Serbia"
-        CountryNames(152) = "Seychelles"
-        CountryNames(153) = "Sierra Leone"
-        CountryNames(154) = "Singapore"
-        CountryNames(155) = "Slovakia"
-        CountryNames(156) = "Slovenia"
-        CountryNames(157) = "Solomon Islands"
-        CountryNames(158) = "Somalia"
-        CountryNames(159) = "South Africa"
-        CountryNames(160) = "Spain"
-        CountryNames(161) = "Sri Lanka"
-        CountryNames(162) = "St. Kitts and Nevis"
-        CountryNames(163) = "St. Lucia"
-        CountryNames(164) = "St. Vincent and the Grenadines"
-        CountryNames(165) = "Sudan"
-        CountryNames(166) = "Suriname"
-        CountryNames(167) = "Swaziland"
-        CountryNames(168) = "Sweden"
-        CountryNames(169) = "Switzerland"
-        CountryNames(170) = "Syria"
+        CountryNames(144) = "Samoa"
+        CountryNames(145) = "San Marino"
+        CountryNames(146) = "São Tomé and Príncipe"
+        CountryNames(147) = "Saudi Arabia"
+        CountryNames(148) = "Senegal"
+        CountryNames(149) = "Serbia"
+        CountryNames(150) = "Seychelles"
+        CountryNames(151) = "Sierra Leone"
+        CountryNames(152) = "Singapore"
+        CountryNames(153) = "Slovakia"
+        CountryNames(154) = "Slovenia"
+        CountryNames(155) = "Solomon Islands"
+        CountryNames(156) = "Somalia"
+        CountryNames(157) = "South Africa"
+        CountryNames(158) = "Spain"
+        CountryNames(159) = "Sri Lanka"
+        CountryNames(160) = "St. Kitts and Nevis"
+        CountryNames(161) = "St. Lucia"
+        CountryNames(162) = "St. Vincent and the Grenadines"
+        CountryNames(163) = "Sudan"
+        CountryNames(164) = "Suriname"
+        CountryNames(165) = "Swaziland"
+        CountryNames(166) = "Sweden"
+        CountryNames(167) = "Switzerland"
+        CountryNames(168) = "Syria"
 
         'countries listed in alphabetial order'
-        CountryNames(171) = "Taiwan"
-        CountryNames(172) = "Tajikistan"
-        CountryNames(173) = "Tanzania"
-        CountryNames(174) = "Thailand"
-        CountryNames(175) = "Togo"
-        CountryNames(176) = "Tonga"
-        CountryNames(177) = "Trinidad and Tobago"
-        CountryNames(178) = "Tunisia"
-        CountryNames(179) = "Turkey"
-        CountryNames(180) = "Turkmenistan"
-        CountryNames(181) = "Tuvalu"
+        CountryNames(169) = "Taiwan"
+        CountryNames(170) = "Tajikistan"
+        CountryNames(171) = "Tanzania"
+        CountryNames(172) = "Thailand"
+        CountryNames(173) = "Togo"
+        CountryNames(174) = "Tonga"
+        CountryNames(175) = "Trinidad and Tobago"
+        CountryNames(176) = "Tunisia"
+        CountryNames(177) = "Turkey"
+        CountryNames(178) = "Turkmenistan"
+        CountryNames(179) = "Tuvalu"
 
         'countries listed in alphabetial order'
-        CountryNames(182) = "Uganda"
-        CountryNames(183) = "Ukraine"
-        CountryNames(184) = "United Arab Emirates"
-        CountryNames(185) = "United Kingdom"
-        CountryNames(186) = "United States"
-        CountryNames(187) = "Uruguay"
-        CountryNames(188) = "Uzbekistan"
+        CountryNames(180) = "Uganda"
+        CountryNames(181) = "Ukraine"
+        CountryNames(182) = "United Arab Emirates"
+        CountryNames(183) = "United Kingdom"
+        CountryNames(184) = "United States"
+        CountryNames(185) = "Uruguay"
+        CountryNames(186) = "Uzbekistan"
 
         'countries listed in alphabetial order'
-        CountryNames(189) = "Vanuatu"
-        CountryNames(190) = "Vatican City"
-        CountryNames(191) = "Venezuela"
-        CountryNames(192) = "Vietnam"
+        CountryNames(187) = "Vanuatu"
+        CountryNames(188) = "Vatican City"
+        CountryNames(189) = "Venezuela"
+        CountryNames(190) = "Vietnam"
 
         'countries listed in alphabetial order'
-        CountryNames(193) = "Western Sahara"
+        CountryNames(191) = "Western Sahara"
 
         'countries listed in alphabetial order'
-        CountryNames(194) = "Yemen"
+        CountryNames(192) = "Yemen"
 
         'countries listed in alphabetial order'
-        CountryNames(195) = "Zambia"
-        CountryNames(196) = "Zimbabwe"
+        CountryNames(193) = "Zambia"
+        CountryNames(194) = "Zimbabwe"
 
 
 
