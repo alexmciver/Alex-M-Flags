@@ -122,6 +122,7 @@
         Flagimageurl(103) = "https://en.wikipedia.org/wiki/Republic_of_Macedonia#/media/File:Flag_of_Macedonia.svg" 'Macedonia'
         Flagimageurl(104) = "https://en.wikipedia.org/wiki/Madagascar#/media/File:Flag_of_Madagascar.svg" 'Madagascar'
         Flagimageurl(105) = "https://en.wikipedia.org/wiki/Malawi#/media/File:Flag_of_Malawi.svg" 'Malawi'
+        Flagimageurl(106) = "https://en.wikipedia.org/wiki/Malaysia#/media/File:Flag_of_Malaysia.svg" 'Malaysia'
 
 
 
