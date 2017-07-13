@@ -42,8 +42,8 @@
         Flagimageurl(33) = "https://en.wikipedia.org/wiki/Central_African_Republic#/media/File:Flag_of_the_Central_African_Republic.svg" 'Central African Republic'
         Flagimageurl(34) = "https://en.wikipedia.org/wiki/Chad#/media/File:Flag_of_Chad.svg" 'Chad'
         Flagimageurl(35) = "https://en.wikipedia.org/wiki/Chile#/media/File:Flag_of_Chile.svg" 'Chile'
-        Flagimageurl(36) = "https://en.wikipedia.org/wiki/China#/media/File:Flag_of_the_People%27s_Republic_of_China.svg" 'China'
-        Flagimageurl(37) = "https://en.wikipedia.org/wiki/Colombia#/media/File:Flag_of_Colombia.svg" 'Colombia'
+        Flagimageurl(36) = "https://en.wikipedia.org/wiki/Flag_of_Colombia#/media/File:Flag_of_Colombia.svg" 'Colombia'
+
         Flagimageurl(38) = "https://en.wikipedia.org/wiki/Comoros#/media/File:Flag_of_the_Comoros.svg" 'Comoros'
         Flagimageurl(39) = "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo#/media/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg" 'The democratic republic of Congo'
         Flagimageurl(40) = "https://en.wikipedia.org/wiki/Republic_of_the_Congo#/media/File:Flag_of_the_Republic_of_the_Congo.svg" 'Republic of the Congo'
@@ -53,13 +53,78 @@
         Flagimageurl(44) = "https://en.wikipedia.org/wiki/Cuba#/media/File:Flag_of_Cuba.svg" 'Cuba'
         Flagimageurl(45) = "https://en.wikipedia.org/wiki/Cyprus#/media/File:Flag_of_Cyprus.svg" 'Cyprus'
         Flagimageurl(46) = "https://en.wikipedia.org/wiki/Czech_Republic#/media/File:Flag_of_the_Czech_Republic.svg" 'Czech Republic"
-        
+
         Flagimageurl(47) = "https://en.wikipedia.org/wiki/Denmark#/media/File:Flag_of_Denmark.svg" 'Denmark'
         Flagimageurl(48) = "https://en.wikipedia.org/wiki/Djibouti#/media/File:Flag_of_Djibouti.svg" 'Djibouti'
         Flagimageurl(49) = "https://en.wikipedia.org/wiki/Dominica#/media/File:Flag_of_Dominica.svg" 'Dominica'
         Flagimageurl(50) = "https://en.wikipedia.org/wiki/Dominican_Republic#/media/File:Flag_of_the_Dominican_Republic.svg" 'Dominican Republic'
-        Flagimageurl(51) = "
-        
+
+        Flagimageurl(51) = "https://en.wikipedia.org/wiki/East_Timor#/media/File:Flag_of_East_Timor.svg" 'East Timor'
+        Flagimageurl(52) = "https://en.wikipedia.org/wiki/Ecuador#/media/File:Flag_of_Ecuador.svg" 'Ecuador'
+        Flagimageurl(53) = "https://en.wikipedia.org/wiki/Egypt#/media/File:Flag_of_Egypt.svg" 'Egypt'
+        Flagimageurl(54) = "https://en.wikipedia.org/wiki/El_Salvador#/media/File:Flag_of_El_Salvador.svg" 'El Salvador'
+        Flagimageurl(55) = "https://en.wikipedia.org/wiki/Equatorial_Guinea#/media/File:Flag_of_Equatorial_Guinea.svg" 'Equatorial Guinea'
+        Flagimageurl(56) = "https://en.wikipedia.org/wiki/Eritrea#/media/File:Flag_of_Eritrea.svg" 'Eritrea'
+        Flagimageurl(57) = "https://en.wikipedia.org/wiki/Estonia#/media/File:Flag_of_Estonia.svg" 'Estonia'
+        Flagimageurl(58) = "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg" 'Ethiopia'
+
+        Flagimageurl(59) = "https://en.wikipedia.org/wiki/Fiji#/media/File:Flag_of_Fiji.svg" 'Fiji'
+        Flagimageurl(60) = "https://en.wikipedia.org/wiki/Finland#/media/File:Flag_of_Finland.svg" 'Finland'
+        Flagimageurl(61) = "https://en.wikipedia.org/wiki/France#/media/File:Flag_of_France.svg" 'France'
+
+        Flagimageurl(62) = "https://en.wikipedia.org/wiki/Gabon#/media/File:Flag_of_Gabon.svg" 'Gabon'
+        Flagimageurl(63) = "https://en.wikipedia.org/wiki/The_Gambia#/media/File:Flag_of_The_Gambia.svg" 'Gambia'
+        Flagimageurl(64) = "https://en.wikipedia.org/wiki/Georgia_(country)#/media/File:Flag_of_Georgia.svg" 'Georgia'
+        Flagimageurl(65) = "https://en.wikipedia.org/wiki/Germany#/media/File:Flag_of_Germany.svg" 'Germany'
+        Flagimageurl(66) = "https://en.wikipedia.org/wiki/Ghana#/media/File:Flag_of_Ghana.svg" 'Ghana'
+        Flagimageurl(67) = "https://en.wikipedia.org/wiki/Greece#/media/File:Flag_of_Greece.svg" 'Greece'
+        Flagimageurl(68) = "https://en.wikipedia.org/wiki/Grenada#/media/File:Flag_of_Grenada.svg" 'Grenada'
+        Flagimageurl(69) = "https://en.wikipedia.org/wiki/Guatemala#/media/File:Flag_of_Guatemala.svg" 'Guatemala'
+        Flagimageurl(70) = "https://en.wikipedia.org/wiki/Guinea#/media/File:Flag_of_Guinea.svg" 'Guinea'
+        Flagimageurl(71) = "https://en.wikipedia.org/wiki/Guinea-Bissau#/media/File:Flag_of_Guinea-Bissau.svg" 'Guinea-Bissau'
+        Flagimageurl(72) = "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg" 'Guyana'
+
+        Flagimageurl(73) = "https://en.wikipedia.org/wiki/Haiti#/media/File:Flag_of_Haiti.svg" 'Haiti'
+        Flagimageurl(74) = "https://en.wikipedia.org/wiki/Honduras#/media/File:Flag_of_Honduras.svg" 'Honduras'
+        Flagimageurl(75) = "https://en.wikipedia.org/wiki/Hungary#/media/File:Flag_of_Hungary.svg" 'Hungary'
+
+        Flagimageurl(76) = "https://en.wikipedia.org/wiki/Iceland#/media/File:Flag_of_Iceland.svg" 'Iceland'
+        Flagimageurl(77) = "https://en.wikipedia.org/wiki/India#/media/File:Flag_of_India.svg" 'India'
+        Flagimageurl(78) = "https://en.wikipedia.org/wiki/Indonesia#/media/File:Flag_of_Indonesia.svg" 'Indonesia'
+        Flagimageurl(79) = "https://en.wikipedia.org/wiki/Iran#/media/File:Flag_of_Iran.svg" 'Iran'
+        Flagimageurl(80) = "https://en.wikipedia.org/wiki/Iraq#/media/File:Flag_of_Iraq.svg" 'Iraq'
+        Flagimageurl(81) = "https://en.wikipedia.org/wiki/Flag_of_Ireland#/media/File:Flag_of_Ireland.svg" 'Ireland'
+        Flagimageurl(82) = "https://en.wikipedia.org/wiki/Israel#/media/File:Flag_of_Israel.svg" 'Israel'
+        Flagimageurl(83) = "https://en.wikipedia.org/wiki/Italy#/media/File:Flag_of_Italy.svg" 'Italy'
+
+        Flagimageurl(84) = "https://en.wikipedia.org/wiki/Jamaica#/media/File:Flag_of_Jamaica.svg" 'Jamaica'
+        Flagimageurl(85) = "https://en.wikipedia.org/wiki/Japan#/media/File:Flag_of_Japan.svg" 'Japan'
+        Flagimageurl(86) = "https://en.wikipedia.org/wiki/Jordan#/media/File:Flag_of_Jordan.svg" 'Jordan'
+
+        Flagimageurl(87) = "https://en.wikipedia.org/wiki/Kazakhstan#/media/File:Flag_of_Kazakhstan.svg" 'Kazakhstan'
+        Flagimageurl(88) = "https://en.wikipedia.org/wiki/Kenya#/media/File:Flag_of_Kenya.svg" 'Kenya'
+        Flagimageurl(89) = "https://en.wikipedia.org/wiki/Kiribati#/media/File:Flag_of_Kiribati.svg" 'Kiribati'
+        Flagimageurl(90) = "https://en.wikipedia.org/wiki/North_Korea#/media/File:Flag_of_North_Korea.svg" 'North Korea'
+        Flagimageurl(91) = "https://en.wikipedia.org/wiki/South_Korea#/media/File:Flag_of_South_Korea.svg" 'South Korea'
+        Flagimageurl(92) = "https://en.wikipedia.org/wiki/Kuwait#/media/File:Flag_of_Kuwait.svg" 'Kuwait'
+        Flagimageurl(93) = "https://en.wikipedia.org/wiki/Kyrgyzstan#/media/File:Flag_of_Kyrgyzstan.svg" 'Kyrgyzstan'
+
+        Flagimageurl(94) = "https://en.wikipedia.org/wiki/Laos#/media/File:Flag_of_Laos.svg" 'Laos'
+        Flagimageurl(95) = "https://en.wikipedia.org/wiki/Latvia#/media/File:Flag_of_Latvia.svg" 'Latvia'
+        Flagimageurl(96) = "https://en.wikipedia.org/wiki/Lebanon#/media/File:Flag_of_Lebanon.svg" 'Lebanon'
+        Flagimageurl(97) = "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg" 'Lesotho'
+        Flagimageurl(98) = "https://en.wikipedia.org/wiki/Liberia#/media/File:Flag_of_Liberia.svg" 'Liberia'
+        Flagimageurl(99) = "https://en.wikipedia.org/wiki/Libya#/media/File:Flag_of_Libya.svg" 'Libya'
+        Flagimageurl(100) = "https://en.wikipedia.org/wiki/Flag_of_Liechtenstein#/media/File:Flag_of_Liechtenstein.svg" 'Liechtenstein'
+        Flagimageurl(101) = "https://en.wikipedia.org/wiki/Lithuania#/media/File:Flag_of_Lithuania.svg" 'Lithuania'
+        Flagimageurl(102) = "https://en.wikipedia.org/wiki/Luxembourg#/media/File:Flag_of_Luxembourg.svg" 'Luxembourg'
+
+        Flagimageurl(103) = "https://en.wikipedia.org/wiki/Republic_of_Macedonia#/media/File:Flag_of_Macedonia.svg" 'Macedonia'
+        Flagimageurl(104) = "https://en.wikipedia.org/wiki/Madagascar#/media/File:Flag_of_Madagascar.svg" 'Madagascar'
+        Flagimageurl(105) = "https://en.wikipedia.org/wiki/Malawi#/media/File:Flag_of_Malawi.svg" 'Malawi'
+
+
+
 
         Dim CountryNames(10) As String 'creating the country names array'
         CountryNames(0) = "Afghanistan"
@@ -106,7 +171,7 @@
         CountryNames(37) = "Colombia"
         CountryNames(38) = "Comoros"
         CountryNames(39) = "The Democratic Republic Of the Congo"
-        CountryNames(40) = "Republic of the Congo"
+        CountryNames(40) = "Republic Of Congo"
         CountryNames(41) = "Costa Rica"
         CountryNames(42) = "Côte d'Ivoire"
         CountryNames(43) = "Croatia"
