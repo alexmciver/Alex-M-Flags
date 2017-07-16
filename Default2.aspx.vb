@@ -115,8 +115,8 @@
         Flagimageurl(98) = "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg" 'Liberia'
         Flagimageurl(99) = "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg" 'Libya'
         Flagimageurl(100) = "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg" 'Liechtenstein'
-        Flagimageurl(101) = "https://en.wikipedia.org/wiki/Lithuania#/media/File:Flag_of_Lithuania.svg" 'Lithuania'
-        Flagimageurl(102) = "https://en.wikipedia.org/wiki/Luxembourg#/media/File:Flag_of_Luxembourg.svg" 'Luxembourg'
+        Flagimageurl(101) = "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" 'Lithuania'
+        Flagimageurl(102) = "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg" 'Luxembourg'
 
         Flagimageurl(103) = "https://en.wikipedia.org/wiki/Republic_of_Macedonia#/media/File:Flag_of_Macedonia.svg" 'Macedonia'
         Flagimageurl(104) = "https://en.wikipedia.org/wiki/Madagascar#/media/File:Flag_of_Madagascar.svg" 'Madagascar'
