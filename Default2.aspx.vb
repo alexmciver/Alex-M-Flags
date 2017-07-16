@@ -291,29 +291,29 @@
 
 
         'countries listed in alphabetial order'
-        CountryNames(122) = "Namibia"
-        CountryNames(123) = "Nauru"
-        CountryNames(124) = "Nepal"
-        CountryNames(125) = "Netherlands"
-        CountryNames(126) = "New Zealand"
-        CountryNames(127) = "Nicaragua"
-        CountryNames(128) = "Nigeria"
-        CountryNames(129) = "Norway"
+        CountryNames(121) = "Namibia"
+        CountryNames(122) = "Nauru"
+        CountryNames(123) = "Nepal"
+        CountryNames(124) = "Netherlands"
+        CountryNames(125) = "New Zealand"
+        CountryNames(126) = "Nicaragua"
+        CountryNames(127) = "Nigeria"
+        CountryNames(128) = "Norway"
 
         'countries listed in alphabetial order'
-        CountryNames(130) = "Oman"
+        CountryNames(129) = "Oman"
 
         'countries listed in alphabetial order'
-        CountryNames(131) = "Pakistan"
-        CountryNames(132) = "Palau"
-        CountryNames(133) = "Palestinian State (proposed)"
-        CountryNames(134) = "Panama"
-        CountryNames(135) = "Papua New Guinea"
-        CountryNames(136) = "Paraguay"
-        CountryNames(137) = "Peru"
-        CountryNames(138) = "Philippines"
-        CountryNames(139) = "Poland"
-        CountryNames(140) = "Portugal"
+        CountryNames(130) = "Pakistan"
+        CountryNames(131) = "Palau"
+        CountryNames(132) = "Palestinian State (proposed)"
+        CountryNames(133) = "Panama"
+        CountryNames(134) = "Papua New Guinea"
+        CountryNames(135) = "Paraguay"
+        CountryNames(136) = "Peru"
+        CountryNames(137) = "Philippines"
+        CountryNames(138) = "Poland"
+        CountryNames(139) = "Portugal"
 
         'countries listed in alphabetial order'
         CountryNames(140) = "Qatar"
