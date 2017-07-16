@@ -100,8 +100,8 @@
         Flagimageurl(85) = "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" 'Japan'
         Flagimageurl(86) = "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg" 'Jordan'
 
-        Flagimageurl(87) = "https://en.wikipedia.org/wiki/Kazakhstan#/media/File:Flag_of_Kazakhstan.svg" 'Kazakhstan'
-        Flagimageurl(88) = "https://en.wikipedia.org/wiki/Kenya#/media/File:Flag_of_Kenya.svg" 'Kenya'
+        Flagimageurl(87) = "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" 'Kazakhstan'
+        Flagimageurl(88) = "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" 'Kenya'
         Flagimageurl(89) = "https://en.wikipedia.org/wiki/Kiribati#/media/File:Flag_of_Kiribati.svg" 'Kiribati'
         Flagimageurl(90) = "https://en.wikipedia.org/wiki/North_Korea#/media/File:Flag_of_North_Korea.svg" 'North Korea'
         Flagimageurl(91) = "https://en.wikipedia.org/wiki/South_Korea#/media/File:Flag_of_South_Korea.svg" 'South Korea'
