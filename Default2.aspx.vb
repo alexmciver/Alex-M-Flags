@@ -102,11 +102,11 @@
 
         Flagimageurl(87) = "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg" 'Kazakhstan'
         Flagimageurl(88) = "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg" 'Kenya'
-        Flagimageurl(89) = "https://en.wikipedia.org/wiki/Kiribati#/media/File:Flag_of_Kiribati.svg" 'Kiribati'
-        Flagimageurl(90) = "https://en.wikipedia.org/wiki/North_Korea#/media/File:Flag_of_North_Korea.svg" 'North Korea'
-        Flagimageurl(91) = "https://en.wikipedia.org/wiki/South_Korea#/media/File:Flag_of_South_Korea.svg" 'South Korea'
-        Flagimageurl(92) = "https://en.wikipedia.org/wiki/Kuwait#/media/File:Flag_of_Kuwait.svg" 'Kuwait'
-        Flagimageurl(93) = "https://en.wikipedia.org/wiki/Kyrgyzstan#/media/File:Flag_of_Kyrgyzstan.svg" 'Kyrgyzstan'
+        Flagimageurl(89) = "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg" 'Kiribati'
+        Flagimageurl(90) = "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg" 'North Korea'
+        Flagimageurl(91) = "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" 'South Korea'
+        Flagimageurl(92) = "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg" 'Kuwait'
+        Flagimageurl(93) = "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg" 'Kyrgyzstan'
 
         Flagimageurl(94) = "https://en.wikipedia.org/wiki/Laos#/media/File:Flag_of_Laos.svg" 'Laos'
         Flagimageurl(95) = "https://en.wikipedia.org/wiki/Latvia#/media/File:Flag_of_Latvia.svg" 'Latvia'
