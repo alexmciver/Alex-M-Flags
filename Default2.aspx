@@ -25,7 +25,7 @@
     
             <h1 class="auto-style1" style="margin-left: 40px">Alex&#39;s Flags Game</h1>
             <p>
-                <strong>This game tests your knowledge of different flags from around the world!</strong></p>
+                <strong>This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging </strong></p>
             <br />
     
             <asp:Image ID="flag" runat="server" Height="162px" Width="293px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" />
