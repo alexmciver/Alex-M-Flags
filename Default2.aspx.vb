@@ -471,20 +471,20 @@
         CountryNames(193) = "Zambia"
         CountryNames(194) = "Zimbabwe"
 
-        flag.ImageUrl = Flagimageurl(9 * Rnd()) 'Choosing a random flag'
-        RadioButton1.Text = CountryNames(9 * Rnd()) 'Randomly picks the country according to the CountryNames array'
-        RadioButton2.Text = CountryNames(9 * Rnd())  ' with random * 10 you get blanks so you need to use random * 9'
-        RadioButton3.Text = CountryNames(9 * Rnd())
-        RadioButton4.Text = CountryNames(9 * Rnd())
+        flag.ImageUrl = Flagimageurl(193 * Rnd()) 'Choosing a random flag'
+        RadioButton1.Text = CountryNames(193 * Rnd()) 'Randomly picks the country according to the CountryNames array'
+        RadioButton2.Text = CountryNames(193 * Rnd())  ' with random * 10 you get blanks so you need to use random * 9'
+        RadioButton3.Text = CountryNames(193 * Rnd())
+        RadioButton4.Text = CountryNames(193 * Rnd())
 
         If RadioButton2.Text = RadioButton1.Text Or RadioButton2.Text = RadioButton3.Text Or RadioButton2.Text = RadioButton4.Text Then  'Makes sure that the radiobuttons don't show duplicate answers'
-            RadioButton1.Text = CountryNames(9 * Rnd())
+            RadioButton1.Text = CountryNames(193 * Rnd())
 
             If RadioButton3.Text = RadioButton2.Text Or RadioButton3.Text = RadioButton1.Text Or RadioButton3.Text = RadioButton4.Text Then  'Makes sure that the radiobuttons don't show duplicate answers'
-                RadioButton1.Text = CountryNames(9 * Rnd())
+                RadioButton1.Text = CountryNames(193 * Rnd())
 
                 If RadioButton4.Text = RadioButton2.Text Or RadioButton4.Text = RadioButton3.Text Or RadioButton4.Text = RadioButton1.Text Then  'Makes sure that the radiobuttons don't show duplicate answers'
-                    RadioButton1.Text = CountryNames(9 * Rnd())
+                    RadioButton1.Text = CountryNames(193 * Rnd())
                 End If
             End If
         End If
