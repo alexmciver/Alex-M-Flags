@@ -138,6 +138,25 @@
         Flagimageurl(120) = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg" 'Mozambique'
         
         Flagimageurl(121) = "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" 'Namibia'
+        Flagimageurl(122) = "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg" 'Nauru'
+        Flagimageurl(123) = "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" 'Nepal'
+        Flagimageurl(124) = "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg" 'Netherlands'
+        Flagimageurl(125) = "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg" 'New Zealand'
+        Flagimageurl(126) = "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" 'Nicaragua'
+        Flagimageurl(127) = "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" 'Nigeria'
+        Flagimageurl(128) = "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" 'Norway'
+        
+        Flagimageurl(129) = "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" 'Oman'
+        
+        Flagimageurl(130) = "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" 'Pakistan'
+        Flagimageurl(131) = "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg" 'Palau'
+        Flagimageurl(132) = "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Palestine_%28State%29.svg" 'Palestinian State (proposed)'
+        Flagimageurl(133) = "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg" 'Panama'
+        Flagimageurl(134) = "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg" 'Papua New Guinea'
+        Flagimageurl(135) = "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" 'Paraguay'
+        Flagimageurl(136) = "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Peru_%28state%29.svg" 'Peru'
+        Flagimageurl(137) = "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" 'Philippines'
+        
 
 
 
