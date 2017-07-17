@@ -156,6 +156,14 @@
         Flagimageurl(135) = "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg" 'Paraguay'
         Flagimageurl(136) = "https://upload.wikimedia.org/wikipedia/commons/d/df/Flag_of_Peru_%28state%29.svg" 'Peru'
         Flagimageurl(137) = "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" 'Philippines'
+        Flagimageurl(138) = "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" 'Poland'
+        Flagimageurl(139) = "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" 'Portugal'
+        
+        Flagimageurl(140) = "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg" 'Qatar'
+        
+        Flagimageurl(141) = "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" 'Romania'
+        Flagimageurl(142) = "https://upload.wikimedia.org/wikipedia/commons/a/a2/Flag_of_Russia_%28Kremlin.ru%29.svg" 'Russia'
+        Flagimageurl(143) =
         
 
 
