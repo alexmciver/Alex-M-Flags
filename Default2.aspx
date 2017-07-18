@@ -26,12 +26,13 @@
             margin-left: 200px;
         }
         .auto-style6 {
-            text-align: justify;
+            width: 1024px;
+            height: 860px;
         }
     </style>
 </head>
 <body style="width: 1336px; margin-left: 0px; margin-top: 0px">
-    <form id="form1" runat="server" autocomplete="on">
+    <form id="form1" runat="server" autocomplete="on" dir="auto" itemtype="~/FreeVector-Multicolor-Background.jpg">
     <div class="auto-style2">
     
             <h1 class="auto-style5">
@@ -61,11 +62,8 @@
                 <StaticSelectedStyle BackColor="#507CD1" />
             </asp:Menu>
                <strong property="og:image:type">
-            <br />
-            This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging 
-            <br />
-            </strong>
-            <br />
+            <h2>This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
+            </strong><br />
     
             <asp:Image ID="flag" runat="server" Height="183px" Width="330px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
     
