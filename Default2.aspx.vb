@@ -488,6 +488,9 @@
         Loop
 
     End Sub
+    Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles [Next].Click 'refreshes the page to show another flag'
+
+    End Sub
 End Class
 
 

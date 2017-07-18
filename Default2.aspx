@@ -20,6 +20,9 @@
         .auto-style3 {
             margin-right: 2px;
         }
+        .auto-style4 {
+            margin-left: 147px;
+        }
     </style>
 </head>
 <body style="width: 1336px; margin-left: 0px; margin-top: 0px">
@@ -44,6 +47,9 @@
         <asp:RadioButton ID="RadioButton3" runat="server" />
         <br />
         <asp:RadioButton ID="RadioButton4" runat="server" />
+        <br />
+        <br />
+        <asp:Button ID="Next" runat="server" CssClass="auto-style4" PostBackUrl="~/Default2.aspx" Text="Next" Width="90px" />
     </form>
 </body>
 </html>
