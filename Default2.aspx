@@ -26,10 +26,22 @@
     </style>
 </head>
 <body style="width: 1336px; margin-left: 0px; margin-top: 0px">
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" autocomplete="on">
     <div class="auto-style2">
     
             <h1 class="auto-style1" style="margin-left: 40px">Alex&#39;s Flags Game</h1>
+            <asp:Menu ID="Menu1" runat="server" BackColor="#CCCCCC" BorderColor="#CCCCCC" BorderStyle="Groove" CssClass="icon" DynamicHorizontalOffset="2" EnableTheming="True" Font-Names="Verdana" Font-Size="Medium" ForeColor="#000000" StaticSubMenuIndent="10px">
+                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <DynamicMenuStyle BackColor="#B5C7DE" />
+                <DynamicSelectedStyle BackColor="#507CD1" />
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/Default2.aspx" Text="Guess the flag" Value="Guess the flag"></asp:MenuItem>
+                </Items>
+                <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <StaticSelectedStyle BackColor="#507CD1" />
+            </asp:Menu>
             <p>
                 <strong>This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging </strong></p>
             <br />
