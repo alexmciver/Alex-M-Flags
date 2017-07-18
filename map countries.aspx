@@ -8,7 +8,7 @@
     <style type="text/css">
         .auto-style1 {
             text-align: center;
-            color: #000099;
+            color: #0000FF;
         }
     </style>
 </head>

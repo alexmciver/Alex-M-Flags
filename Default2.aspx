@@ -25,6 +25,9 @@
             width: 1231px;
             margin-left: 200px;
         }
+        .auto-style6 {
+            text-align: justify;
+        }
     </style>
 </head>
 <body style="width: 1336px; margin-left: 0px; margin-top: 0px">
@@ -45,8 +48,23 @@
                 <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
                 <StaticSelectedStyle BackColor="#507CD1" />
             </asp:Menu>
-               <p>
-                   <strong property="og:image:type">This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging </strong></p>
+            <asp:Menu ID="Menu2" runat="server" BackColor="#CCCCCC" BorderColor="#CCCCCC" BorderStyle="Groove" CssClass="icon" DynamicHorizontalOffset="2" EnableTheming="True" Font-Names="Verdana" Font-Size="Medium" ForeColor="#000000" StaticSubMenuIndent="10px">
+                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <DynamicMenuStyle BackColor="#B5C7DE" />
+                <DynamicSelectedStyle BackColor="#507CD1" />
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/map countries.aspx" Text="Guess the country on the map" Value="Guess the country on the map"></asp:MenuItem>
+                </Items>
+                <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                <StaticSelectedStyle BackColor="#507CD1" />
+            </asp:Menu>
+               <strong property="og:image:type">
+            <br />
+            This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging 
+            <br />
+            </strong>
             <br />
     
             <asp:Image ID="flag" runat="server" Height="183px" Width="330px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
