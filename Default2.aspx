@@ -6,10 +6,6 @@
 <head runat="server">
     <title>Alex's Flag Game</title>
     <style type="text/css">
-        .auto-style1 {
-            color: #0033CC;
-            background-color: #FFFFFF;
-        }
         #form1 {
             background-color: #FFFFFF;
             height: 521px;
@@ -23,13 +19,18 @@
         .auto-style4 {
             margin-left: 147px;
         }
+        .auto-style5 {
+            text-align: center;
+            color: #0000FF;
+        }
     </style>
 </head>
 <body style="width: 1336px; margin-left: 0px; margin-top: 0px">
     <form id="form1" runat="server" autocomplete="on">
     <div class="auto-style2">
     
-            <h1 class="auto-style1" style="margin-left: 40px">Alex&#39;s Flags Game</h1>
+            <h1 class="auto-style5">
+                <strong>Alex&#39;s Flags Game</strong></h1>
             <asp:Menu ID="Menu1" runat="server" BackColor="#CCCCCC" BorderColor="#CCCCCC" BorderStyle="Groove" CssClass="icon" DynamicHorizontalOffset="2" EnableTheming="True" Font-Names="Verdana" Font-Size="Medium" ForeColor="#000000" StaticSubMenuIndent="10px">
                 <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
                 <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
@@ -42,8 +43,8 @@
                 <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
                 <StaticSelectedStyle BackColor="#507CD1" />
             </asp:Menu>
-            <p>
-                <strong>This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging </strong></p>
+               <p>
+                   <strong property="og:image:type">This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging </strong></p>
             <br />
     
             <asp:Image ID="flag" runat="server" Height="183px" Width="330px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
@@ -62,6 +63,8 @@
         <br />
         <br />
         <asp:Button ID="Next" runat="server" CssClass="auto-style4" PostBackUrl="~/Default2.aspx" Text="Next" Width="90px" />
+        <p>
+            &nbsp;</p>
     </form>
 </body>
 </html>
