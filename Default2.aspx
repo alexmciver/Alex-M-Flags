@@ -20,8 +20,10 @@
             margin-left: 147px;
         }
         .auto-style5 {
-            text-align: center;
+            text-align: left;
             color: #0000FF;
+            width: 1231px;
+            margin-left: 200px;
         }
     </style>
 </head>
