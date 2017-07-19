@@ -25,9 +25,11 @@
             width: 1231px;
             margin-left: 200px;
         }
-        .auto-style6 {
-            width: 1024px;
-            height: 860px;
+        .auto-style7 {
+            color: #FF3300;
+        }
+        .auto-style8 {
+            margin-top: 3px;
         }
     </style>
 </head>
@@ -37,32 +39,18 @@
     
             <h1 class="auto-style5">
                 <strong>Alex&#39;s Flags Game</strong></h1>
-            <asp:Menu ID="Menu1" runat="server" BackColor="#CCCCCC" BorderColor="#CCCCCC" BorderStyle="Groove" CssClass="icon" DynamicHorizontalOffset="2" EnableTheming="True" Font-Names="Verdana" Font-Size="Medium" ForeColor="#000000" StaticSubMenuIndent="10px">
-                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
-                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
-                <DynamicMenuStyle BackColor="#B5C7DE" />
-                <DynamicSelectedStyle BackColor="#507CD1" />
-                <Items>
-                    <asp:MenuItem NavigateUrl="~/Default2.aspx" Text="Guess the flag" Value="Guess the flag"></asp:MenuItem>
-                </Items>
-                <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
-                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
-                <StaticSelectedStyle BackColor="#507CD1" />
-            </asp:Menu>
-            <asp:Menu ID="Menu2" runat="server" BackColor="#CCCCCC" BorderColor="#CCCCCC" BorderStyle="Groove" CssClass="icon" DynamicHorizontalOffset="2" EnableTheming="True" Font-Names="Verdana" Font-Size="Medium" ForeColor="#000000" StaticSubMenuIndent="10px">
-                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
-                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
-                <DynamicMenuStyle BackColor="#B5C7DE" />
-                <DynamicSelectedStyle BackColor="#507CD1" />
-                <Items>
-                    <asp:MenuItem NavigateUrl="~/map countries.aspx" Text="Guess the country on the map" Value="Guess the country on the map"></asp:MenuItem>
-                </Items>
-                <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
-                <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
-                <StaticSelectedStyle BackColor="#507CD1" />
-            </asp:Menu>
                <strong property="og:image:type">
-            <h2>This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
+            <h2 class="auto-style7">This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
+            <h3>
+                <asp:Label ID="Label1" runat="server" Text="Time"></asp:Label>
+                :
+                <asp:Button ID="Button1" runat="server" CssClass="auto-style8" Height="28px" Text="Start" Width="54px" />
+            </h3>
+            <p class="auto-style7">
+                <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+                <asp:Timer ID="Timer1" runat="server" Enabled="False" Interval="1000">
+                </asp:Timer>
+            </p>
             </strong><br />
     
             <asp:Image ID="flag" runat="server" Height="183px" Width="330px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
