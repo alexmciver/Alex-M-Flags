@@ -372,7 +372,6 @@
         CountryNames(119) = "Morocco"
         CountryNames(120) = "Mozambique"
 
-
         'countries listed in alphabetial order'
         CountryNames(121) = "Namibia"
         CountryNames(122) = "Nauru"
@@ -471,7 +470,7 @@
         CountryNames(193) = "Zambia"
         CountryNames(194) = "Zimbabwe"
 
-        flag.ImageUrl = Flagimageurl(193 * Rnd()) 'Choosing a random flag'
+        flag.ImageUrl = Flagimageurl(194 * Rnd()) 'Choosing a random flag'
         RadioButton1.Text = CountryNames(193 * Rnd()) 'Randomly picks the country according to the CountryNames array'
         RadioButton2.Text = CountryNames(193 * Rnd())  ' with random * 10 you get blanks so you need to use random * 9'
         RadioButton3.Text = CountryNames(193 * Rnd())
