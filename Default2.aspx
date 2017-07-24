@@ -31,6 +31,9 @@
         .auto-style8 {
             height: 827px;
         }
+        .auto-style9 {
+            margin-left: 13px;
+        }
         </style>
 </head>
 <body style="width: 1336px; margin-left: 0px; margin-top: 0px">
@@ -41,6 +44,17 @@
                 <strong>Alex&#39;s Flag Game</strong></h1>
                <strong property="og:image:type">
             <h2 class="auto-style7">This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
+            <p class="auto-style7">
+                <asp:ScriptManager ID="ScriptManager1" runat="server">
+                </asp:ScriptManager>
+                <asp:Timer ID="Timer1" runat="server" Enabled="False" Interval="1000">
+                </asp:Timer>
+            </p>
+            <h2>
+                <asp:Label ID="Label1" runat="server" Text="Time"></asp:Label>
+                :
+                <asp:Button ID="Button1" runat="server" CssClass="auto-style9" Text="Start" Width="90px" />
+            </h2>
             </strong><br />
     
             <asp:Image ID="flag" runat="server" Height="183px" Width="356px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
