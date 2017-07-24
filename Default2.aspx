@@ -26,13 +26,14 @@
             margin-left: 200px;
         }
         .auto-style7 {
-            color: #FF3300;
+            color: #000000;
         }
         .auto-style8 {
             height: 827px;
         }
         .auto-style9 {
-            margin-left: 13px;
+            width: 68px;
+            height: 50px;
         }
         </style>
 </head>
@@ -41,20 +42,9 @@
     <div class="auto-style2" itemtype="FreeVector-Multicolor-Background.jpg" style="background-image: url('wallpapers-light-shinee-backgrounds-animated-colour-background-color-original-shine-picture.jpg')">
     
             <h1 class="auto-style5">
-                <strong>Alex&#39;s Flag Game</strong></h1>
-               <strong property="og:image:type">
-            <h2 class="auto-style7">This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
-            <p class="auto-style7">
-                <asp:ScriptManager ID="ScriptManager1" runat="server">
-                </asp:ScriptManager>
-                <asp:Timer ID="Timer1" runat="server" Enabled="False" Interval="1000">
-                </asp:Timer>
-            </p>
-            <h2>
-                <asp:Label ID="Label1" runat="server" Text="Time"></asp:Label>
-                :
-                <asp:Button ID="Button1" runat="server" CssClass="auto-style9" Text="Start" Width="90px" />
-            </h2>
+                <strong>
+                <img class="auto-style9" src="great-britain-flag-1.gif" />Alex&#39;s Flag Game </strong>
+                <img alt="gb flag" class="auto-style9" src="great-britain-flag-1.gif" /></h1> &nbsp;<strong property="og:image:type"><h2 class="auto-style7">This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
             </strong><br />
     
             <asp:Image ID="flag" runat="server" Height="183px" Width="356px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
