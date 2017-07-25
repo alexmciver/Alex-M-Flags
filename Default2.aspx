@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Alex's Flag Game</title>
+    <title>Virtual Vexologist</title>
     <style type="text/css">
         form1 {
             background-color: #FFFFFF; 
@@ -43,8 +43,8 @@
     
             <h1 class="auto-style5">
                 <strong>
-                <img alt="gb flag" class="auto-style10" src="great-britain-flag-1.gif" />Alex&#39;s Flag Game </strong>
-                <img alt="gb flag" class="auto-style10" src="great-britain-flag-1.gif" /></h1> &nbsp;<strong property="og:image:type"><h2 class="auto-style7">This game tests your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
+                <img alt="gb flag" class="auto-style10" src="great-britain-flag-1.gif" />Virtual Vexologist </strong>
+                <img alt="gb flag" class="auto-style10" src="great-britain-flag-1.gif" /></h1> &nbsp;<strong property="og:image:type"><h2 class="auto-style7">Test your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
             </strong>&nbsp;<br />
     
             <asp:Image ID="flag" runat="server" Height="183px" Width="356px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
