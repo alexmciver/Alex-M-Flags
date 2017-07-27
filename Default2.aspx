@@ -32,8 +32,11 @@
             height: 827px;
         }
         .auto-style10 {
+            background-position: 131px 1px;
             width: 94px;
             height: 86px;
+            background-image: url('great-britain-flag-1.gif');
+            background-repeat: no-repeat;
         }
         </style>
 </head>
@@ -50,10 +53,10 @@
             <asp:Image ID="flag" runat="server" Height="183px" Width="356px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
     
     </div>
-        <h3>Which country has this flag?</h3>
+        <h3>Which country does this flag belong to?</h3>
         </strong>
         <strong>
-            <asp:RadioButton ID="RadioButton1" runat="server" />
+            <asp:RadioButton ID="RadioButton1" runat="server" CssClass="auto-style8" />
         </strong>
         <br />
         <strong>
