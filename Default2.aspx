@@ -19,12 +19,6 @@
         .auto-style4 {
             margin-left: 147px;
         }
-        .auto-style5 {
-            text-align: left;
-            color: #0000FF;
-            width: 1231px;
-            margin-left: 200px;
-        }
         .auto-style7 {
             color: #000000;
         }
@@ -44,7 +38,7 @@
     <form id="form1" runat="server" autocomplete="on" dir="auto" itemtype="~/wallpapers-light-shinee-backgrounds-animated-colour-background-color-original-shine-picture.jpg" style="background-image: url('wallpapers-light-shinee-backgrounds-animated-colour-background-color-original-shine-picture.jpg')" class="auto-style8">
     <div class="auto-style2" itemtype="FreeVector-Multicolor-Background.jpg" style="background-image: url('wallpapers-light-shinee-backgrounds-animated-colour-background-color-original-shine-picture.jpg')">
     
-            <h1 class="auto-style5">
+            <h1 class="auto-style7" style="font-family: 'Comic Sans MS'; color: #3366FF;">
                 <strong>
                 <img alt="gb flag" class="auto-style10" src="great-britain-flag-1.gif" />Virtual Vexologist </strong>
                 <img alt="gb flag" class="auto-style10" src="great-britain-flag-1.gif" /></h1> &nbsp;<strong property="og:image:type"><h2 class="auto-style7">Test your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</h2>
