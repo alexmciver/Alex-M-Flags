@@ -72,7 +72,7 @@
         </strong>
         <br />
         <br />
-        <asp:Button ID="Next" runat="server" CssClass="auto-style4" PostBackUrl="~/Default2.aspx" Text="Next" Width="90px" />
+        <asp:Button ID="Next" runat="server" CssClass="auto-style4" PostBackUrl="~/Default2.aspx" Text="Next" Width="90px" Font-Bold="True" Font-Names="Comic Sans MS" Font-Size="Medium" />
     </form>
 </body>
 </html>
