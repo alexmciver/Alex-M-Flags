@@ -136,7 +136,7 @@
         Flagimageurl(118) = "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg" 'Montenegro'
         Flagimageurl(119) = "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg" 'Morocco'
         Flagimageurl(120) = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg" 'Mozambique'
-        
+
         Flagimageurl(121) = "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg" 'Namibia'
         Flagimageurl(122) = "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg" 'Nauru'
         Flagimageurl(123) = "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg" 'Nepal'
@@ -145,9 +145,9 @@
         Flagimageurl(126) = "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" 'Nicaragua'
         Flagimageurl(127) = "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg" 'Nigeria'
         Flagimageurl(128) = "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" 'Norway'
-        
+
         Flagimageurl(129) = "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg" 'Oman'
-        
+
         Flagimageurl(130) = "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" 'Pakistan'
         Flagimageurl(131) = "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg" 'Palau'
         Flagimageurl(132) = "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Palestine_%28State%29.svg" 'Palestinian State (proposed)'
@@ -158,13 +158,13 @@
         Flagimageurl(137) = "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" 'Philippines'
         Flagimageurl(138) = "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" 'Poland'
         Flagimageurl(139) = "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" 'Portugal'
-        
+
         Flagimageurl(140) = "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg" 'Qatar'
-        
+
         Flagimageurl(141) = "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" 'Romania'
         Flagimageurl(142) = "https://upload.wikimedia.org/wikipedia/commons/a/a2/Flag_of_Russia_%28Kremlin.ru%29.svg" 'Russia'
         Flagimageurl(143) = "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg" 'Rwanda'
-        
+
         Flagimageurl(144) = "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg" 'Samoa'
         Flagimageurl(145) = "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" 'San Marino'
         Flagimageurl(146) = "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg" 'São Tomé and Príncipe'
@@ -190,7 +190,7 @@
         Flagimageurl(166) = "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" 'Sweden'
         Flagimageurl(167) = "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg" 'Switzerland'
         Flagimageurl(168) = "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg" 'Syria'
-        
+
         Flagimageurl(169) = "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg" 'Taiwan'
         Flagimageurl(170) = "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg" 'Tajikistan'
         Flagimageurl(171) = "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg" 'Tanzania'
@@ -202,7 +202,7 @@
         Flagimageurl(177) = "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" 'Turkey'
         Flagimageurl(178) = "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg" 'Turkmenistan'
         Flagimageurl(179) = "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg" 'Tuvalu'
-        
+
         Flagimageurl(180) = "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg" 'Uganda'
         Flagimageurl(181) = "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" 'Ukraine'
         Flagimageurl(182) = "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg" 'United Arab Emirates'
@@ -210,21 +210,21 @@
         Flagimageurl(184) = "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" 'United States'
         Flagimageurl(185) = "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg" 'Uruguay'
         Flagimageurl(186) = "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg" 'Uzbekistan'
-        
+
         Flagimageurl(187) = "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Vanuatu_%28official%29.svg" 'Vanuatu'
         Flagimageurl(188) = "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg" 'Vatican City'
         Flagimageurl(189) = "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Venezuela_%28state%29.svg" 'Venezuela'
         Flagimageurl(190) = "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" 'Vietnam'
-        
+
         Flagimageurl(191) = "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg" 'Western Sahara'
-        
+
         Flagimageurl(192) = "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" 'Yemen'
-        
+
         Flagimageurl(193) = "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg" 'Zambia'
-        
+
         Flagimageurl(194) = "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg" 'Zimbabwe'
-        
-        
+
+
         Dim CountryNames(194) As String 'creating the country names array'
         CountryNames(0) = "Afghanistan"
         CountryNames(1) = "Albania"
@@ -490,6 +490,8 @@
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles [Next].Click 'refreshes the page to show another flag'
 
     End Sub
+    Dim playername As String = ""
+
 End Class
 
 
