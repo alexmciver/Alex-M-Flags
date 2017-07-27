@@ -53,6 +53,10 @@
         }
         .auto-style19 {
             font-size: medium;
+            color: #3399FF;
+        }
+        .auto-style20 {
+            color: #3399FF;
         }
         </style>
 </head>
@@ -66,7 +70,10 @@
                 <img alt="gb flag" class="auto-style10" src="great-britain-flag-1.gif" />Virtual Vexologist </strong>
                 <img alt="gb flag" class="auto-style10" src="great-britain-flag-1.gif" /></h1>
             <strong property="og:image:type"><h2 class="auto-style14"><span class="auto-style15">&nbsp;<strong property="og:image:type"><img alt="" class="auto-style17" src="world_flags.gif" /></strong>Test your knowledge of different flags from all around the world! Some flags are easy and some are a bit more challenging</span><img alt="" class="auto-style17" src="world_flags.gif" /></h2>
-            </strong>&nbsp;<br />
+            <h3><em>
+                <asp:Label ID="Score" runat="server" Text="Score:"></asp:Label>
+&nbsp;</em></h3>
+            </strong><br />
     
             <asp:Image ID="flag" runat="server" Height="183px" Width="356px" ImageUrl="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/uk-lgflag.gif" CssClass="auto-style3" />
     
@@ -93,7 +100,7 @@
         <asp:Button ID="Next" runat="server" CssClass="auto-style4" PostBackUrl="~/Default2.aspx" Text="Next" Width="90px" Font-Bold="True" Font-Names="Comic Sans MS" Font-Size="Medium" />
             <br />
             <div class="auto-style18">
-                <h2>Best Player</h2>
+                <h2 class="auto-style20">Best Player</h2>
                 <p>
                     <asp:Label ID="NameLabel" runat="server" CssClass="auto-style19" Font-Bold="True" Font-Size="Medium" Text="Player Name:"></asp:Label>
                 </p>
